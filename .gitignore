@@ -1,0 +1,4 @@
+node_modules/
+testing/build
+testing/dist
+testing/api_test.spec

@@ -1,0 +1,150 @@
+\documentclass[a4paper, dvipsnames]{scrartcl}
+\usepackage[parfill]{parskip}
+\usepackage[utf8]{inputenc}
+\usepackage[pdftex]{color}
+\usepackage{xspace,listings}
+\usepackage{graphicx}
+\usepackage{color} %colours!
+\usepackage{xcolor}
+
+\title{SENG3011 - Report 1}
+\author{Electric Boogaloo}
+\date{March 2017}
+
+\def\labelitemi{-}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{Electric Boogaloo}
+\rhead{Page \thepage}
+\cfoot{Software Engineering Workshop 3 - Initial Report}
+\renewcommand{\headrulewidth}{0.6pt}
+\renewcommand{\footrulewidth}{0.6pt}
+
+\begin{document}
+
+\begin{titlepage}
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % Defines a new command for the horizontal lines, change thickness here
+
+\center % Center everything on the page
+ 
+
+\textsc{\LARGE University of New South Wales}\\[1.5cm] % Name of your university/college
+\textsc{\Large Software Engineering Workshop 3}\\[0.5cm] % Major heading such as course name
+\textsc{\large SENG3011}\\[0.5cm] % Minor heading such as course title
+
+
+\HRule \\[0.4cm]
+{ \huge \bfseries Initial Report}\\[0.1cm] % Title of your document
+\HRule \\[1.5cm]
+ 
+
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft} \large
+\emph{Authors:} \textbf{Electric Boogaloo}\\
+Damon \textsc{Lee} - (z5075672) \\
+Kaan \textsc{Apaydin} - (z5075670) \\
+Kevin \textsc{Luo} - (z5061845) \\
+Orion \textsc{Larden} - (5061967) \\
+Simon \textsc{Taylor} - (z5061969) \\
+\end{flushleft}
+\end{minipage}
+~
+\begin{minipage}{0.4\textwidth}
+\begin{flushright} \large
+\emph{Supervisor:} \\
+Fethi \textsc{Rabhi} % Supervisor's Name
+\end{flushright}
+\end{minipage}\\[2cm]
+
+
+
+%----------------------------------------------------------------------------------------
+%	LOGO SECTION
+%----------------------------------------------------------------------------------------
+
+\includegraphics[width=6cm,height=6cm,keepaspectratio]{Logo.png}\\[1.5cm] %
+ 
+%----------------------------------------------------------------------------------------
+
+{\large \today}\\[3cm] 
+
+\vfill % Fill the rest of the page with whitespace
+\end{titlepage}
+\newpage
+
+\tableofcontents
+\newpage
+
+\section{Introduction}
+Our API is centered around a wide range of trading related services using data from the Australian Bureau of Statistics. The API is able to respond to requests from third parties to specific areas of statistics, regions of interest and a list of categories within a given time period.
+
+\section{Initial Design}
+\subsection{Implementation}
+Our entire API application is built on Meteor, a platform which provides advantages in real-time applications through its distinct client-server architecture. Although this may be somewhat unnecessary for an API only implementation, Meteor will aid us in building a client service for the later deliverables in the course.
+
+Meteor integrates existing web and data frameworks together to provide developers with a
+full stack Javascript App Platform. The frameworks in Meteor are: Node.js, MongoDB and allows the developer's choice of integration of React, Angular.js or Blaze as their front end framework. In our application, we have decided to use React.js as it is relatively simpler compared to the other two front end frameworks.
+
+By itself, Meteor does not readily support the implementation of RESTful APIs. To overcome this problem, we decided to use a Meteor plugin called Restivus.
+
+The reason why we have chosen Meteor and React.js as the tool used to build our web application is due to a few reasons:
+
+\begin{itemize}
+    \item It works out of the box and we do not have to waste time to wire components together.
+    \item All components of Meteor use Javascript allowing us an easier time to develop our application.
+    \item React makes it easier to develop interactive UIs by only rendering the required components when the data changes.
+\end{itemize}
+
+The API will be hosted on a cloud application platform called Heroku. Heroku handles the setting up, operation and maintenance of the application thus allowing us to focus all our attention on the building and improving our application. A shorter and memorable domain
+name is also provided free of charge, making it easier to access our API and request information.
+
+\subsection{Interaction}
+- Discuss your current thinking about how 
+parameters can be passed to your  module and how 
+results are collected. Show an example of a possible interaction.
+
+- Do HTTP get requests
+- Allow a variety of inputs to be passed in
+
+\section{Initial Project Plan}
+\subsection{Responsibilities}
+In developing this project, we have decided to adapt the scrum process in assigning roles and delegation of tasks. (change this, better wording)
+
+The individual team roles are:
+\begin{itemize}
+\item
+    Simon Taylor, Scrum Master
+    
+    As the scrum master, Simon will be in charge of assigning deadlines for tasks and ensuring the stable progress of the project as development ensues. 
+\item    
+    Damon Lee, Product Owner
+    
+    As the product owner, Damon will be in charge of leading the direction of development. That is, to decide what in particular the application should achieve, the features provided to users and so on.
+\item   
+    Orion Larden, Scrum Member
+\item
+    Kaan Apaydin, Scrum Member
+\item
+    Kevin Luo, Scrum Member
+\end{itemize}
+    
+As team members we will fulfil tasks that have been delegated to us by the scrum master.
+        
+Aside from team roles, each member will be focusing on one aspect of the application. The member's focuses are as outlined:
+\begin{itemize}
+\item Simon Taylor - Flexible
+\item Damon Lee - Front-end development
+\item Orion Larden - Back-end development
+\item Kaan Apaydin - Back-end development
+\item Kevin Luo - Flexible
+\end{itemize}
+
+\subsection{Work Arrangements}
+In addition to adapting the scrum process, we will also implement the agile software development methodolgy, which will involve weekly stand-up meetings in which we will discuss what tasks are finished, what tasks need to be completed and if there is anything prohibiting us from accomplishing this task.
+
+We will be using a number of tools during development to assist with project management. Github and Git will be used to provide version control. This will enable us to individually work on given tasks whilst maintaining a complete up to date version between team members. We will also be using Trello, an online project management application. Trello follows the Kanban methodology of project management, which will allow us to efficiently control the work flow and progress of the project. We can assign tasks and report issues easily on Trello making it easy to follow the status of the project and responsibilities of team members.
+
+\end{document}
+

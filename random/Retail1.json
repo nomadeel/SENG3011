@@ -1,0 +1,46 @@
+{
+	"GRB" : {"image" : "http://gageroads.com.au/wp-content/uploads/2016/06/Gage-Roads-Brewing-Co-logo-navy.png", "name" : "Gage Roads Brewing Co Limited"},
+	"CCL" : {"image" : "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Coca-Cola_Amatil.svg/1280px-Coca-Cola_Amatil.svg.png", "name" : "Coca-Cola Amatil Ltd"},
+	"TWE" : {"image" : "https://www.tweglobal.com/~/media/Images/Global/News/News-Preview-Images/TWE-Crest-Medium-News-Preview.jpg?la=en&mw=1382", "name" : "Treasury Wine Estates Ltd"},
+	"TGR" : {"image" : "http://www.tassal.com.au/wp-content/themes/tassal/assets/img/mobile-menu-logo.png", "name" : "Tassal Group Limited"},
+	"BGA" : {"image" : "http://www.businessreviewaustralia.com/public/uploads/normal/normal_Bega-logo1.png", "name" : "Bega Cheese Ltd"},
+	"BAL" : {"image" : "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Bellamy%27s_Australia_logo_white.jpg/200px-Bellamy%27s_Australia_logo_white.jpg", "name" : "Bellamy's Australia Ltd"},
+	"CZZ" : {"image" : "https://www.capilanousa.com/wp-content/themes/twentyfourteen-child/images/capilano_logo.png", "name" : "Capilano Honey Ltd"},
+	"MTS" : {"image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRNZigSfgF2S1IUF7i4BMTMPz4QR4sabAxI3ndkNJrseCvDkz", "name" : "Metcash Limited"},
+	
+	"SKT" : {"image" : "http://www.rialtochannel.co.nz/Portals/0/Skins/Responsive/images/logo-sky.png", "name" : "Sky Network Television Ltd"},
+	"RFX" : {"image" : "http://www.impress.com.au/images/stories/Redflow/redflow%20logo.png", "name" : "RedFlow Ltd"},
+	"GWA" : {"image" : "http://www.annualreports.com/HostedData/CompanyLogos/ASX_GWA.jpg", "name" : "GWA Group Ltd"},
+	"MCP" : {"image" : "https://www.mcphersons.com.au/sites/default/files/logo.png", "name" : "McPherson's Ltd"},
+	"ADH" : {"image" : "https://www.macquariecentre.com.au/MacquarieCentre/media/contents/04_Stores/01_Store_Logos/logo-adairs-1__640x350.png?width=640&height=350&ext=.png", "name" : "Adairs Ltd"},
+	"WAT" : {"image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2pu9x_nfnd3ie3jorgGHOPquLWITB6O4x9eysbWuLn-5BFtnb", "name" : "Waterco Limited"},
+	"BRG" : {"image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFc6R0P9PcQinmuF_atu9Ykzai9LpFM6AIik0wmDtSzWXRjFhgfA", "name" : "Breville Group Ltd"},
+	
+	"NAM" : {"image" : "http://www.namoicotton.com.au/images/NAM-logo.gif", "name" : "Namoi Cotton Co-operative Ltd."},
+	"AAC" : {"image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPRoTlNgZfo_nOMf2lUHU2yRgclYuzdAkCanOP6NsYdK_QBKV", "name" : "Australian Agricultural Company Ltd"},
+	"CGC" : {"image" : "https://seekcdn.com/pacman/company-profiles/logos/435234/costa-group-logo.jpg", "name" : "Costa Group Holdings Ltd"},
+	"ELD" : {"image" : "https://elders.com.au/wp-content/uploads/2016/09/logo-1.png", "name" : "Elders Ltd"},
+	"FRM" : {"image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYe_CGEYNtsnqwjlInFa0P99opyU4mL0zi3-t8jPWMzsA8OjNyrg", "name" : "Farm Pride Foods Ltd."},
+	"GNC" : {"image" : "http://www.graincorp.com.au/images/v2/logo.png", "name" : "Graincorp Ltd"},
+	
+	"EMB" : {"image" : "http://embelton.com/timber-flooring/Custom/Images/EmbeltonLogoBlueWhite.jpg", "name" : "Embelton Limited"},
+	"KPT" : {"image" : "https://cdn.shareprices.com.au/data/files/1078/ASX_KPT_LOGO_2.png", "name" : "Kangaroo Island Plantation Timbers Ltd"},
+	"KOV" : {"image" : "http://www.korvest.com.au/site/images/korvest-logo-colour.png", "name" : "Korvest Limited"},
+	
+	"EGO" : {"image" : "http://empireoil.com.au/sites/empireoil.com.au/themes/empireoil/images/empire-logo-web.gif", "name" : "Empire Oil & Gas NL"},
+	"CVN" : {"image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVEJCr6Eqo4QOO3n9vhZ5dlVIttFLL3ux6wTLNht28pap80w3W", "name" : "Carnarvon Petroleum Limited"},
+	"FDM" : {"image" : "http://content.equisolve.net/_423102e8d3c53f2f63964f27af041fcc/dennardlascar/db/95/16154/logo.png", "name" : "Freedom Oil and Gas Ltd"},
+	"SEA" : {"image" : "http://www.sundanceenergy.com.au/img/logo.png", "name" : "Sundance Energy Australia Ltd"},
+	"PRL" : {"image" : "http://www.petrelenergy.com/irm/content/images/logo.png", "name" : "Petrel Energy Ltd"},
+	"ORG" : {"image" : "https://lh6.googleusercontent.com/-YAv6wKly2iU/AAAAAAAAAAI/AAAAAAAAAG4/ZLR89jUpBvA/s0-c-k-no-ns/photo.jpg", "name" : "Origin Energy Ltd"},
+	
+	"IPL" : {"image" : "http://www.incitecpivot.com.au/~/media/Images/IPL/Global%20Sites/ipl-main-logo.png?h=19&w=250", "name" : "Incitec Pivot Ltd"},
+	"NUF" : {"image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqHFqTArzApCHSkDcnz4876VYIboHD4SDxn3S_9KAhWGocOu1VJA", "name" : "Nufarm Limited"},
+	"MYX" : {"image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt7JI8jchmb-hkhkxwui5M_TaR8rNfPpOTatAtCG6Gyl1rPtWjkQ", "name" : "Mayne Pharma Group Ltd"},
+	"MVP" : {"image" : "http://www.medicaldev.com/wp-content/uploads/2014/07/medical-dev-uk-logo.svg", "name" : "Medical Developments International Ltd"},
+	"NRT" : {"image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLoXhqj8af_Q1dyOO83dXPUCE4zsFQBY_xVBjN8a3Zko1it0DN1w", "name" : "Novogen Limited"},
+	"OPT" : {"image" : "https://media.licdn.com/media/p/1/000/1e2/189/133e277.png", "name" : "Opthea Ltd"},
+	"PXS" : {"image" : "http://www.pharmaxis.com.au/themes/pharmaxis/images/logo-x2.png", "name" : "Pharmaxis Ltd."},
+	"BLT" : {"image" : "http://www.benitec.com/_assets/css/images/logo@2x.png", "name" : "Benitec Biopharma Ltd"},
+	"MMJ" : {"image" : "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAALVAAAAJDdmZDllNjgwLWJkMmEtNDhiNC1hODM1LWZkNGE0NTdhZmU2OQ.png", "name" : "MMJ Phytotech Ltd"}
+}

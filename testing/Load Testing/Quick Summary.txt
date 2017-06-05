@@ -1,0 +1,22 @@
+All tests were run such that there were a total of 1000 users, with a limit of 100 user actions per second. This was done using Python scripts for the Locust load balancing tool. It allows you to spawn and manage bot users that interact with your site. We ran at 1000 users with 100/second spawn rate.
+
+Electric Boogaloo:
+
+Starting off the tests the call times were pretty typical ~1 second. After reaching approximately 50,000 total requests (At 80 - 100 requests per second) the call times averaged at about 5 seconds. We also experienced a couple of failures (Looks like they were some kind of DNS errors). 2/75000 requests were errors.
+
+Run time: 17 mins 2 seconds
+Requests: ~75,000
+
+Team Rocket:
+
+Starting off the tests the call times were pretty typical ~1 second. After reaching approximately 45,000 total requests (At 90 - 100 requests per second) the call times averaged at about 3 - 4 seconds. No errors were experienced.
+
+Run time: 15 mins 24 seconds
+Requests: ~75,000
+
+Fantastic Four:
+
+Almost immeadiately failures started rolling in and our requests per seconds plummeted until only failures were present. We gave up on reaching 75,000 requests as we found that the test accidently pushed the site offline. We also observed that the payload of the successful messages dropped from a standard amount to only ~ 4 bytes. 
+
+Run time: 20 mins 55 seconds
+Requests: ~2000 requests, ~4500 failures.

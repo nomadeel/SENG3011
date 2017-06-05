@@ -1,0 +1,25 @@
+{
+    "Area": "retail",
+    "Category": "Total",
+    "State": "NSW",
+    "start_date": "2016-01-01",
+    "end_date": "2016-01-01",
+    "expected_response": {
+        "MonthlyRetailData": [
+            {
+                "RetailIndustry": "Total",
+                "RegionalData": [
+                    {
+                        "State": "NSW",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 7997.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

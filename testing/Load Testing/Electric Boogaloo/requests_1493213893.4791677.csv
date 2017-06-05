@@ -1,0 +1,6 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"GET","/api/v2/merchandise?State=AUS&Category=Total&startDate=2000-01-01&endDate=2017-01-01",30034,1,5100,5714,975,23550,21049,32.09
+"GET","/api/v2/merchandise?State=NSW,VIC&Category=FoodAndLiveAnimals,ManufacturedGoods&startDate=2016-01-01&endDate=2017-01-01",15128,0,4000,4782,718,23512,6024,16.17
+"GET","/api/v2/retail?State=AUS&Category=Total&startDate=2000-01-01&endDate=2017-01-01",22584,1,5200,5741,991,23615,20650,24.13
+"GET","/api/v2/retail?State=NSW,VIC&Category=Food,HouseholdGood&startDate=2016-01-01&endDate=2017-01-01",7454,0,4000,4704,730,23439,5932,7.97
+"None","Total",75200,2,4900,5434,718,23615,16408,80.36

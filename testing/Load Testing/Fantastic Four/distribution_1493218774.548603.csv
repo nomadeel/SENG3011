@@ -1,0 +1,5 @@
+"Name","# requests","50%","66%","75%","80%","90%","95%","98%","99%","100%"
+"GET /api/api.php?StatisticsArea=&State=AUS&Category=Total&startDate=2000-01-01&endDate=2017-01-01",1490,105000,121000,135000,142000,168000,194000,250000,305000,449649
+"GET /api/api.php?StatisticsArea=&State=NSW%2CSVIC&Category=Food%2CSHouseholdGood&startDate=2016-01-01&endDate=2017-01-01",212,108000,123000,136000,143000,163000,183000,213000,250000,259969
+"GET /api/api.php?StatisticsArea=&State=NSW%2CSVIC&Category=FoodAndLiveAnimals%2CSManufacturedGoods&startDate=2016-01-01&endDate=2017-01-01",414,108000,123000,136000,147000,175000,189000,237000,279000,351662
+"None Total",2116,105000,122000,135000,143000,169000,192000,246000,292000,449649

@@ -1,0 +1,16 @@
+<Grid>
+            <Grid.Row>
+              <Grid.Column>
+                <Grid.Row>
+                  <Header as='h5' dividing>
+                    {heading}
+                  </Header>
+                  <br/>
+                </Grid.Row>
+                  {news_image}
+                  <p>{content}</p>
+                <Grid.Row>
+                </Grid.Row>
+              </Grid.Column>
+            </Grid.Row>
+          </Grid>

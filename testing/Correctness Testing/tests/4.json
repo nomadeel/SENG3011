@@ -1,0 +1,97 @@
+{
+    "Area": "retail",
+    "Category": "Food",
+    "State": "AUS,NSW,VIC,QLD,SA,WA,TAS,NT,ACT",
+    "start_date": "2016-01-01",
+    "end_date": "2016-01-01",
+    "expected_response": {
+        "MonthlyRetailData": [
+            {
+                "RetailIndustry": "Food",
+                "RegionalData": [
+                    {
+                        "State": "AUS",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 10244.9
+                            }
+                        ]
+                    },
+                    {
+                        "State": "NSW",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 3156.7
+                            }
+                        ]
+                    },
+                    {
+                        "State": "VIC",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 2530.4
+                            }
+                        ]
+                    },
+                    {
+                        "State": "QLD",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 2139.9
+                            }
+                        ]
+                    },
+                    {
+                        "State": "SA",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 728.2
+                            }
+                        ]
+                    },
+                    {
+                        "State": "WA",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 1158.7
+                            }
+                        ]
+                    },
+                    {
+                        "State": "TAS",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 218.8
+                            }
+                        ]
+                    },
+                    {
+                        "State": "NT",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 112.4
+                            }
+                        ]
+                    },
+                    {
+                        "State": "ACT",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 199.8
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

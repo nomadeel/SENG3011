@@ -1,0 +1,88 @@
+{
+    "Area": "merchandise",
+    "Category": "FoodAndLiveAnimals",
+    "State": "AUS,NSW,VIC,QLD,SA,WA,TAS,NT,ACT",
+    "start_date": "2016-01-01",
+    "end_date": "2016-01-01",
+    "expected_response": {
+        "MonthlyCommodityExportData": [
+            {
+                "Commodity": "FoodAndLiveAnimals",
+                "RegionalData": [
+                    {
+                        "State": "AUS",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Value": 2475911.246
+                            }
+                        ]
+                    },
+                    {
+                        "State": "NSW",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Value": 342613.592
+                            }
+                        ]
+                    },
+                    {
+                        "State": "QLD",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Value": 349835.005
+                            }
+                        ]
+                    },
+                    {
+                        "State": "TAS",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Value": 104895.492
+                            }
+                        ]
+                    },
+                    {
+                        "State": "WA",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Value": 568729.324
+                            }
+                        ]
+                    },
+                    {
+                        "State": "NT",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Value": 38456.495
+                            }
+                        ]
+                    },
+                    {
+                        "State": "VIC",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Value": 607036.311
+                            }
+                        ]
+                    },
+                    {
+                        "State": "SA",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Value": 267902.642
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

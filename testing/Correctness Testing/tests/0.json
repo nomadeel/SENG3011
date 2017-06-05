@@ -1,0 +1,45 @@
+{
+    "Area": "retail",
+    "Category": "Other",
+    "State": "AUS",
+    "start_date": "2016-01-01",
+    "end_date": "2016-06-30",
+    "expected_response": {
+        "MonthlyRetailData": [
+            {
+                "RetailIndustry": "Other",
+                "RegionalData": [
+                    {
+                        "State": "AUS",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 3304.9
+                            },
+                            {
+                                "Date": "2016-2-29",
+                                "Turnover": 3257
+                            },
+                            {
+                                "Date": "2016-3-31",
+                                "Turnover": 3398.6
+                            },
+                            {
+                                "Date": "2016-4-30",
+                                "Turnover": 3355.8
+                            },
+                            {
+                                "Date": "2016-5-31",
+                                "Turnover": 3428.5
+                            },
+                            {
+                                "Date": "2016-6-30",
+                                "Turnover": 3414.4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

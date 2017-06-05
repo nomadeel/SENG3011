@@ -1,0 +1,417 @@
+{
+    "Area": "retail",
+    "Category": "Total,Food,HouseholdGood,ClothingFootwareAndPersonalAccessory,DepartmentStores,CafesRestaurantsAndTakeawayFood,Other",
+    "State": "NSW",
+    "start_date": "2016-01-01",
+    "end_date": "2016-12-01",
+    "expected_response": {
+        "MonthlyRetailData": [
+            {
+                "RetailIndustry": "Food",
+                "RegionalData": [
+                    {
+                        "State": "NSW",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 3156.7
+                            },
+                            {
+                                "Date": "2016-2-29",
+                                "Turnover": 2930.6
+                            },
+                            {
+                                "Date": "2016-3-31",
+                                "Turnover": 3170.9
+                            },
+                            {
+                                "Date": "2016-4-30",
+                                "Turnover": 2984.4
+                            },
+                            {
+                                "Date": "2016-5-31",
+                                "Turnover": 3012.7
+                            },
+                            {
+                                "Date": "2016-6-30",
+                                "Turnover": 2914.5
+                            },
+                            {
+                                "Date": "2016-7-31",
+                                "Turnover": 2979.3
+                            },
+                            {
+                                "Date": "2016-8-31",
+                                "Turnover": 3050.9
+                            },
+                            {
+                                "Date": "2016-9-30",
+                                "Turnover": 3051.3
+                            },
+                            {
+                                "Date": "2016-10-31",
+                                "Turnover": 3233.8
+                            },
+                            {
+                                "Date": "2016-11-30",
+                                "Turnover": 3214.7
+                            },
+                            {
+                                "Date": "2016-12-31",
+                                "Turnover": 3807.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "RetailIndustry": "HouseholdGood",
+                "RegionalData": [
+                    {
+                        "State": "NSW",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 1388.5
+                            },
+                            {
+                                "Date": "2016-2-29",
+                                "Turnover": 1266.1
+                            },
+                            {
+                                "Date": "2016-3-31",
+                                "Turnover": 1297.7
+                            },
+                            {
+                                "Date": "2016-4-30",
+                                "Turnover": 1290.1
+                            },
+                            {
+                                "Date": "2016-5-31",
+                                "Turnover": 1318
+                            },
+                            {
+                                "Date": "2016-6-30",
+                                "Turnover": 1388.3
+                            },
+                            {
+                                "Date": "2016-7-31",
+                                "Turnover": 1337.4
+                            },
+                            {
+                                "Date": "2016-8-31",
+                                "Turnover": 1339.7
+                            },
+                            {
+                                "Date": "2016-9-30",
+                                "Turnover": 1442.6
+                            },
+                            {
+                                "Date": "2016-10-31",
+                                "Turnover": 1510.1
+                            },
+                            {
+                                "Date": "2016-11-30",
+                                "Turnover": 1579.4
+                            },
+                            {
+                                "Date": "2016-12-31",
+                                "Turnover": 1856.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "RetailIndustry": "ClothingFootwareAndPersonalAccessory",
+                "RegionalData": [
+                    {
+                        "State": "NSW",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 715.8
+                            },
+                            {
+                                "Date": "2016-2-29",
+                                "Turnover": 594.5
+                            },
+                            {
+                                "Date": "2016-3-31",
+                                "Turnover": 676.9
+                            },
+                            {
+                                "Date": "2016-4-30",
+                                "Turnover": 713.1
+                            },
+                            {
+                                "Date": "2016-5-31",
+                                "Turnover": 723.6
+                            },
+                            {
+                                "Date": "2016-6-30",
+                                "Turnover": 747.6
+                            },
+                            {
+                                "Date": "2016-7-31",
+                                "Turnover": 693.8
+                            },
+                            {
+                                "Date": "2016-8-31",
+                                "Turnover": 667.4
+                            },
+                            {
+                                "Date": "2016-9-30",
+                                "Turnover": 708.9
+                            },
+                            {
+                                "Date": "2016-10-31",
+                                "Turnover": 728.1
+                            },
+                            {
+                                "Date": "2016-11-30",
+                                "Turnover": 787.4
+                            },
+                            {
+                                "Date": "2016-12-31",
+                                "Turnover": 1261.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "RetailIndustry": "DepartmentStores",
+                "RegionalData": [
+                    {
+                        "State": "NSW",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 501.7
+                            },
+                            {
+                                "Date": "2016-2-29",
+                                "Turnover": 369
+                            },
+                            {
+                                "Date": "2016-3-31",
+                                "Turnover": 470.4
+                            },
+                            {
+                                "Date": "2016-4-30",
+                                "Turnover": 472.9
+                            },
+                            {
+                                "Date": "2016-5-31",
+                                "Turnover": 475.6
+                            },
+                            {
+                                "Date": "2016-6-30",
+                                "Turnover": 530.2
+                            },
+                            {
+                                "Date": "2016-7-31",
+                                "Turnover": 468.2
+                            },
+                            {
+                                "Date": "2016-8-31",
+                                "Turnover": 413.9
+                            },
+                            {
+                                "Date": "2016-9-30",
+                                "Turnover": 461.8
+                            },
+                            {
+                                "Date": "2016-10-31",
+                                "Turnover": 495.6
+                            },
+                            {
+                                "Date": "2016-11-30",
+                                "Turnover": 555
+                            },
+                            {
+                                "Date": "2016-12-31",
+                                "Turnover": 939.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "RetailIndustry": "Other",
+                "RegionalData": [
+                    {
+                        "State": "NSW",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 1031.6
+                            },
+                            {
+                                "Date": "2016-2-29",
+                                "Turnover": 1025
+                            },
+                            {
+                                "Date": "2016-3-31",
+                                "Turnover": 1071.2
+                            },
+                            {
+                                "Date": "2016-4-30",
+                                "Turnover": 1060.2
+                            },
+                            {
+                                "Date": "2016-5-31",
+                                "Turnover": 1110.9
+                            },
+                            {
+                                "Date": "2016-6-30",
+                                "Turnover": 1065.4
+                            },
+                            {
+                                "Date": "2016-7-31",
+                                "Turnover": 1105.9
+                            },
+                            {
+                                "Date": "2016-8-31",
+                                "Turnover": 1109.6
+                            },
+                            {
+                                "Date": "2016-9-30",
+                                "Turnover": 1117.7
+                            },
+                            {
+                                "Date": "2016-10-31",
+                                "Turnover": 1144
+                            },
+                            {
+                                "Date": "2016-11-30",
+                                "Turnover": 1341.6
+                            },
+                            {
+                                "Date": "2016-12-31",
+                                "Turnover": 1509.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "RetailIndustry": "CafesRestaurantsAndTakeawayFood",
+                "RegionalData": [
+                    {
+                        "State": "NSW",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 1203.2
+                            },
+                            {
+                                "Date": "2016-2-29",
+                                "Turnover": 1115.8
+                            },
+                            {
+                                "Date": "2016-3-31",
+                                "Turnover": 1160
+                            },
+                            {
+                                "Date": "2016-4-30",
+                                "Turnover": 1182.8
+                            },
+                            {
+                                "Date": "2016-5-31",
+                                "Turnover": 1155.1
+                            },
+                            {
+                                "Date": "2016-6-30",
+                                "Turnover": 1110.2
+                            },
+                            {
+                                "Date": "2016-7-31",
+                                "Turnover": 1207.4
+                            },
+                            {
+                                "Date": "2016-8-31",
+                                "Turnover": 1224
+                            },
+                            {
+                                "Date": "2016-9-30",
+                                "Turnover": 1261.4
+                            },
+                            {
+                                "Date": "2016-10-31",
+                                "Turnover": 1271.6
+                            },
+                            {
+                                "Date": "2016-11-30",
+                                "Turnover": 1265.9
+                            },
+                            {
+                                "Date": "2016-12-31",
+                                "Turnover": 1408.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "RetailIndustry": "Total",
+                "RegionalData": [
+                    {
+                        "State": "NSW",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 7997.5
+                            },
+                            {
+                                "Date": "2016-2-29",
+                                "Turnover": 7301
+                            },
+                            {
+                                "Date": "2016-3-31",
+                                "Turnover": 7847.1
+                            },
+                            {
+                                "Date": "2016-4-30",
+                                "Turnover": 7703.5
+                            },
+                            {
+                                "Date": "2016-5-31",
+                                "Turnover": 7796
+                            },
+                            {
+                                "Date": "2016-6-30",
+                                "Turnover": 7756.2
+                            },
+                            {
+                                "Date": "2016-7-31",
+                                "Turnover": 7792
+                            },
+                            {
+                                "Date": "2016-8-31",
+                                "Turnover": 7805.4
+                            },
+                            {
+                                "Date": "2016-9-30",
+                                "Turnover": 8043.8
+                            },
+                            {
+                                "Date": "2016-10-31",
+                                "Turnover": 8383.1
+                            },
+                            {
+                                "Date": "2016-11-30",
+                                "Turnover": 8744
+                            },
+                            {
+                                "Date": "2016-12-31",
+                                "Turnover": 10783.1
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,5357 @@
+{
+  "CompanyReturns": [
+    {
+      "InstrumentID": "BAL.AX",
+      "Data": [
+        {
+          "RelativeDate": 0,
+          "Date": "2014-01-01",
+          "Return": 0,
+          "CM_Return": 2.4594838762452444,
+          "AV_Return": 0.003236162995059532
+        },
+        {
+          "RelativeDate": 1,
+          "Date": "2014-01-02",
+          "Return": 0,
+          "CM_Return": 2.4339420805796097,
+          "AV_Return": 0.003202555369183697
+        },
+        {
+          "RelativeDate": 2,
+          "Date": "2014-01-03",
+          "Return": 0,
+          "CM_Return": 2.385490928871905,
+          "AV_Return": 0.0031388038537788223
+        },
+        {
+          "RelativeDate": 3,
+          "Date": "2014-01-04",
+          "Return": 0,
+          "CM_Return": 2.3153740674361787,
+          "AV_Return": 0.003046544825573919
+        },
+        {
+          "RelativeDate": 4,
+          "Date": "2014-01-05",
+          "Return": 0,
+          "CM_Return": 2.4643866347611336,
+          "AV_Return": 0.003242613993106755
+        },
+        {
+          "RelativeDate": 5,
+          "Date": "2014-01-06",
+          "Return": 0,
+          "CM_Return": 2.4643866347611336,
+          "AV_Return": 0.003242613993106755
+        },
+        {
+          "RelativeDate": 6,
+          "Date": "2014-01-07",
+          "Return": 0,
+          "CM_Return": 2.4643866347611336,
+          "AV_Return": 0.003242613993106755
+        },
+        {
+          "RelativeDate": 7,
+          "Date": "2014-01-08",
+          "Return": 0,
+          "CM_Return": 2.4690741347611334,
+          "AV_Return": 0.003248781756264649
+        },
+        {
+          "RelativeDate": 8,
+          "Date": "2014-01-09",
+          "Return": 0,
+          "CM_Return": 2.4325267008575566,
+          "AV_Return": 0.0032006930274441534
+        },
+        {
+          "RelativeDate": 9,
+          "Date": "2014-01-10",
+          "Return": 0,
+          "CM_Return": 2.3647300906880653,
+          "AV_Return": 0.003111486961431665
+        },
+        {
+          "RelativeDate": 10,
+          "Date": "2014-01-11",
+          "Return": 0,
+          "CM_Return": 2.386375112333087,
+          "AV_Return": 0.003139967253069851
+        },
+        {
+          "RelativeDate": 11,
+          "Date": "2014-01-12",
+          "Return": 0,
+          "CM_Return": 2.336375112333087,
+          "AV_Return": 0.003074177779385641
+        },
+        {
+          "RelativeDate": 12,
+          "Date": "2014-01-13",
+          "Return": 0,
+          "CM_Return": 2.336375112333087,
+          "AV_Return": 0.003074177779385641
+        },
+        {
+          "RelativeDate": 13,
+          "Date": "2014-01-14",
+          "Return": 0,
+          "CM_Return": 2.336375112333087,
+          "AV_Return": 0.003074177779385641
+        },
+        {
+          "RelativeDate": 14,
+          "Date": "2014-01-15",
+          "Return": 0,
+          "CM_Return": 2.3479719009147106,
+          "AV_Return": 0.0030894367117298826
+        },
+        {
+          "RelativeDate": 15,
+          "Date": "2014-01-16",
+          "Return": 0,
+          "CM_Return": 2.4026456222550987,
+          "AV_Return": 0.003161375818756709
+        },
+        {
+          "RelativeDate": 16,
+          "Date": "2014-01-17",
+          "Return": 0,
+          "CM_Return": 2.468699133960784,
+          "AV_Return": 0.0032482883341589264
+        },
+        {
+          "RelativeDate": 17,
+          "Date": "2014-01-18",
+          "Return": 0,
+          "CM_Return": 2.560463839843137,
+          "AV_Return": 0.0033690313682146543
+        },
+        {
+          "RelativeDate": 18,
+          "Date": "2014-01-19",
+          "Return": 0,
+          "CM_Return": 2.4225328053603787,
+          "AV_Return": 0.0031875431649478667
+        },
+        {
+          "RelativeDate": 19,
+          "Date": "2014-01-20",
+          "Return": 0,
+          "CM_Return": 2.4225328053603787,
+          "AV_Return": 0.0031875431649478667
+        },
+        {
+          "RelativeDate": 20,
+          "Date": "2014-01-21",
+          "Return": 0,
+          "CM_Return": 2.4225328053603787,
+          "AV_Return": 0.0031875431649478667
+        },
+        {
+          "RelativeDate": 21,
+          "Date": "2014-01-22",
+          "Return": 0,
+          "CM_Return": 2.4416994720270453,
+          "AV_Return": 0.0032127624631934806
+        },
+        {
+          "RelativeDate": 22,
+          "Date": "2014-01-23",
+          "Return": 0,
+          "CM_Return": 2.4228932577997355,
+          "AV_Return": 0.003188017444473336
+        },
+        {
+          "RelativeDate": 23,
+          "Date": "2014-01-24",
+          "Return": 0,
+          "CM_Return": 2.4562265911330687,
+          "AV_Return": 0.003231877093596143
+        },
+        {
+          "RelativeDate": 24,
+          "Date": "2014-01-25",
+          "Return": 0,
+          "CM_Return": 2.4150975588750043,
+          "AV_Return": 0.0031777599458881634
+        },
+        {
+          "RelativeDate": 25,
+          "Date": "2014-01-26",
+          "Return": 0,
+          "CM_Return": 2.3898662720793777,
+          "AV_Return": 0.003144560884314971
+        },
+        {
+          "RelativeDate": 26,
+          "Date": "2014-01-27",
+          "Return": 0,
+          "CM_Return": 2.3898662720793777,
+          "AV_Return": 0.003144560884314971
+        },
+        {
+          "RelativeDate": 27,
+          "Date": "2014-01-28",
+          "Return": 0,
+          "CM_Return": 2.3898662720793777,
+          "AV_Return": 0.003144560884314971
+        },
+        {
+          "RelativeDate": 28,
+          "Date": "2014-01-29",
+          "Return": 0,
+          "CM_Return": 2.3303321909749775,
+          "AV_Return": 0.0030662265670723388
+        },
+        {
+          "RelativeDate": 29,
+          "Date": "2014-01-30",
+          "Return": 0,
+          "CM_Return": 2.274368888222684,
+          "AV_Return": 0.002992590642398268
+        },
+        {
+          "RelativeDate": 30,
+          "Date": "2014-01-31",
+          "Return": 0,
+          "CM_Return": 2.3103261282615564,
+          "AV_Return": 0.003039902800344153
+        },
+        {
+          "RelativeDate": 31,
+          "Date": "2014-02-01",
+          "Return": 0,
+          "CM_Return": 2.3581685297624944,
+          "AV_Return": 0.003102853328634861
+        },
+        {
+          "RelativeDate": 32,
+          "Date": "2014-02-02",
+          "Return": 0,
+          "CM_Return": 2.32862510988783,
+          "AV_Return": 0.003063980407747145
+        },
+        {
+          "RelativeDate": 33,
+          "Date": "2014-02-03",
+          "Return": 0,
+          "CM_Return": 2.32862510988783,
+          "AV_Return": 0.003063980407747145
+        },
+        {
+          "RelativeDate": 34,
+          "Date": "2014-02-04",
+          "Return": 0,
+          "CM_Return": 2.32862510988783,
+          "AV_Return": 0.003063980407747145
+        },
+        {
+          "RelativeDate": 35,
+          "Date": "2014-02-05",
+          "Return": 0,
+          "CM_Return": 2.279732120957941,
+          "AV_Return": 0.002999647527576238
+        },
+        {
+          "RelativeDate": 36,
+          "Date": "2014-02-06",
+          "Return": 0,
+          "CM_Return": 2.2642132072818986,
+          "AV_Return": 0.0029792279043182874
+        },
+        {
+          "RelativeDate": 37,
+          "Date": "2014-02-07",
+          "Return": 0,
+          "CM_Return": 2.31051862600111,
+          "AV_Return": 0.0030401560868435658
+        },
+        {
+          "RelativeDate": 38,
+          "Date": "2014-02-08",
+          "Return": 0,
+          "CM_Return": 2.3434753115001685,
+          "AV_Return": 0.003083520146710748
+        },
+        {
+          "RelativeDate": 39,
+          "Date": "2014-02-09",
+          "Return": 0,
+          "CM_Return": 2.3270669249915086,
+          "AV_Return": 0.0030619301644625114
+        },
+        {
+          "RelativeDate": 40,
+          "Date": "2014-02-10",
+          "Return": 0,
+          "CM_Return": 2.3270669249915086,
+          "AV_Return": 0.0030619301644625114
+        },
+        {
+          "RelativeDate": 41,
+          "Date": "2014-02-11",
+          "Return": 0,
+          "CM_Return": 2.3270669249915086,
+          "AV_Return": 0.0030619301644625114
+        },
+        {
+          "RelativeDate": 42,
+          "Date": "2014-02-12",
+          "Return": 0,
+          "CM_Return": 2.313165164101796,
+          "AV_Return": 0.0030436383738181526
+        },
+        {
+          "RelativeDate": 43,
+          "Date": "2014-02-13",
+          "Return": 0,
+          "CM_Return": 2.2981275701168333,
+          "AV_Return": 0.003023852065943202
+        },
+        {
+          "RelativeDate": 44,
+          "Date": "2014-02-14",
+          "Return": 0,
+          "CM_Return": 2.3095779517962227,
+          "AV_Return": 0.0030389183576266087
+        },
+        {
+          "RelativeDate": 45,
+          "Date": "2014-02-15",
+          "Return": 0,
+          "CM_Return": 2.293540215947166,
+          "AV_Return": 0.003017816073614692
+        },
+        {
+          "RelativeDate": 46,
+          "Date": "2014-02-16",
+          "Return": 0,
+          "CM_Return": 2.2973753070305793,
+          "AV_Return": 0.0030228622460928677
+        },
+        {
+          "RelativeDate": 47,
+          "Date": "2014-02-17",
+          "Return": 0,
+          "CM_Return": 2.2973753070305793,
+          "AV_Return": 0.0030228622460928677
+        },
+        {
+          "RelativeDate": 48,
+          "Date": "2014-02-18",
+          "Return": 0,
+          "CM_Return": 2.2973753070305793,
+          "AV_Return": 0.0030228622460928677
+        },
+        {
+          "RelativeDate": 49,
+          "Date": "2014-02-19",
+          "Return": 0,
+          "CM_Return": 2.317432613620837,
+          "AV_Return": 0.0030492534389747854
+        },
+        {
+          "RelativeDate": 50,
+          "Date": "2014-02-20",
+          "Return": 0,
+          "CM_Return": 2.3530131379654065,
+          "AV_Return": 0.003096069918375535
+        },
+        {
+          "RelativeDate": 51,
+          "Date": "2014-02-21",
+          "Return": 0,
+          "CM_Return": 2.3756171162655875,
+          "AV_Return": 0.0031258119950862994
+        },
+        {
+          "RelativeDate": 52,
+          "Date": "2014-02-22",
+          "Return": 0,
+          "CM_Return": 2.334945144559133,
+          "AV_Return": 0.0030722962428409643
+        },
+        {
+          "RelativeDate": 53,
+          "Date": "2014-02-23",
+          "Return": 0,
+          "CM_Return": 2.334945144559133,
+          "AV_Return": 0.0030722962428409643
+        },
+        {
+          "RelativeDate": 54,
+          "Date": "2014-02-24",
+          "Return": 0,
+          "CM_Return": 2.334945144559133,
+          "AV_Return": 0.0030722962428409643
+        },
+        {
+          "RelativeDate": 55,
+          "Date": "2014-02-25",
+          "Return": 0,
+          "CM_Return": 2.334945144559133,
+          "AV_Return": 0.0030722962428409643
+        },
+        {
+          "RelativeDate": 56,
+          "Date": "2014-02-26",
+          "Return": 0,
+          "CM_Return": 2.334945144559133,
+          "AV_Return": 0.0030722962428409643
+        },
+        {
+          "RelativeDate": 57,
+          "Date": "2014-02-27",
+          "Return": 0,
+          "CM_Return": 2.2695073565407,
+          "AV_Return": 0.0029861938901851316
+        },
+        {
+          "RelativeDate": 58,
+          "Date": "2014-02-28",
+          "Return": 0,
+          "CM_Return": 2.266548776659043,
+          "AV_Return": 0.0029823010219197934
+        },
+        {
+          "RelativeDate": 59,
+          "Date": "2014-03-01",
+          "Return": 0,
+          "CM_Return": 2.2892985293791224,
+          "AV_Return": 0.0030122349070777926
+        },
+        {
+          "RelativeDate": 60,
+          "Date": "2014-03-02",
+          "Return": 0,
+          "CM_Return": 2.2612521077156793,
+          "AV_Return": 0.0029753317206785254
+        },
+        {
+          "RelativeDate": 61,
+          "Date": "2014-03-03",
+          "Return": 0,
+          "CM_Return": 2.2612521077156793,
+          "AV_Return": 0.0029753317206785254
+        },
+        {
+          "RelativeDate": 62,
+          "Date": "2014-03-04",
+          "Return": 0,
+          "CM_Return": 2.2612521077156793,
+          "AV_Return": 0.0029753317206785254
+        },
+        {
+          "RelativeDate": 63,
+          "Date": "2014-03-05",
+          "Return": 0,
+          "CM_Return": 2.2612521077156793,
+          "AV_Return": 0.0029753317206785254
+        },
+        {
+          "RelativeDate": 64,
+          "Date": "2014-03-06",
+          "Return": 0,
+          "CM_Return": 2.263242157466923,
+          "AV_Return": 0.00297795020719332
+        },
+        {
+          "RelativeDate": 65,
+          "Date": "2014-03-07",
+          "Return": 0,
+          "CM_Return": 2.2642352061263074,
+          "AV_Return": 0.002979256850166194
+        },
+        {
+          "RelativeDate": 66,
+          "Date": "2014-03-08",
+          "Return": 0,
+          "CM_Return": 2.23943361882472,
+          "AV_Return": 0.002946623182664105
+        },
+        {
+          "RelativeDate": 67,
+          "Date": "2014-03-09",
+          "Return": 0,
+          "CM_Return": 2.257744910788097,
+          "AV_Return": 0.002970716987879075
+        },
+        {
+          "RelativeDate": 68,
+          "Date": "2014-03-10",
+          "Return": 0,
+          "CM_Return": 2.2607419137851,
+          "AV_Return": 0.0029746604128751313
+        },
+        {
+          "RelativeDate": 69,
+          "Date": "2014-03-11",
+          "Return": 0,
+          "CM_Return": 2.2607419137851,
+          "AV_Return": 0.0029746604128751313
+        },
+        {
+          "RelativeDate": 70,
+          "Date": "2014-03-12",
+          "Return": 0,
+          "CM_Return": 2.2607419137851,
+          "AV_Return": 0.0029746604128751313
+        },
+        {
+          "RelativeDate": 71,
+          "Date": "2014-03-13",
+          "Return": 0,
+          "CM_Return": 2.2517777703588053,
+          "AV_Return": 0.0029628654873142175
+        },
+        {
+          "RelativeDate": 72,
+          "Date": "2014-03-14",
+          "Return": 0,
+          "CM_Return": 2.1442400819165943,
+          "AV_Return": 0.002821368528837624
+        },
+        {
+          "RelativeDate": 73,
+          "Date": "2014-03-15",
+          "Return": 0,
+          "CM_Return": 2.1994202620967744,
+          "AV_Return": 0.0028939740290747033
+        },
+        {
+          "RelativeDate": 74,
+          "Date": "2014-03-16",
+          "Return": 0,
+          "CM_Return": 2.2709250646581407,
+          "AV_Return": 0.002988059295602817
+        },
+        {
+          "RelativeDate": 75,
+          "Date": "2014-03-17",
+          "Return": 0,
+          "CM_Return": 2.325705941152165,
+          "AV_Return": 0.0030601393962528486
+        },
+        {
+          "RelativeDate": 76,
+          "Date": "2014-03-18",
+          "Return": 0,
+          "CM_Return": 2.325705941152165,
+          "AV_Return": 0.0030601393962528486
+        },
+        {
+          "RelativeDate": 77,
+          "Date": "2014-03-19",
+          "Return": 0,
+          "CM_Return": 2.325705941152165,
+          "AV_Return": 0.0030601393962528486
+        },
+        {
+          "RelativeDate": 78,
+          "Date": "2014-03-20",
+          "Return": 0,
+          "CM_Return": 2.3049316257602857,
+          "AV_Return": 0.003032804770737218
+        },
+        {
+          "RelativeDate": 79,
+          "Date": "2014-03-21",
+          "Return": 0,
+          "CM_Return": 2.3165034676117804,
+          "AV_Return": 0.0030480308784365533
+        },
+        {
+          "RelativeDate": 80,
+          "Date": "2014-03-22",
+          "Return": 0,
+          "CM_Return": 2.3165034676117804,
+          "AV_Return": 0.0030480308784365533
+        },
+        {
+          "RelativeDate": 81,
+          "Date": "2014-03-23",
+          "Return": 0,
+          "CM_Return": 2.3203166229978622,
+          "AV_Return": 0.003053048188155082
+        },
+        {
+          "RelativeDate": 82,
+          "Date": "2014-03-24",
+          "Return": 0,
+          "CM_Return": 2.2880279240424968,
+          "AV_Return": 0.0030105630579506538
+        },
+        {
+          "RelativeDate": 83,
+          "Date": "2014-03-25",
+          "Return": 0,
+          "CM_Return": 2.2880279240424968,
+          "AV_Return": 0.0030105630579506538
+        },
+        {
+          "RelativeDate": 84,
+          "Date": "2014-03-26",
+          "Return": 0,
+          "CM_Return": 2.2880279240424968,
+          "AV_Return": 0.0030105630579506538
+        },
+        {
+          "RelativeDate": 85,
+          "Date": "2014-03-27",
+          "Return": 0,
+          "CM_Return": 2.2880279240424968,
+          "AV_Return": 0.0030105630579506538
+        },
+        {
+          "RelativeDate": 86,
+          "Date": "2014-03-28",
+          "Return": 0,
+          "CM_Return": 2.2674194843957842,
+          "AV_Return": 0.002983446689994453
+        },
+        {
+          "RelativeDate": 87,
+          "Date": "2014-03-29",
+          "Return": 0,
+          "CM_Return": 2.2704254964198323,
+          "AV_Return": 0.0029874019689734633
+        },
+        {
+          "RelativeDate": 88,
+          "Date": "2014-03-30",
+          "Return": 0,
+          "CM_Return": 2.2954005213948574,
+          "AV_Return": 0.003020263843940602
+        },
+        {
+          "RelativeDate": 89,
+          "Date": "2014-03-31",
+          "Return": 0,
+          "CM_Return": 2.276882002876339,
+          "AV_Return": 0.002995897372205709
+        },
+        {
+          "RelativeDate": 90,
+          "Date": "2014-04-01",
+          "Return": 0,
+          "CM_Return": 2.276882002876339,
+          "AV_Return": 0.002995897372205709
+        },
+        {
+          "RelativeDate": 91,
+          "Date": "2014-04-02",
+          "Return": 0,
+          "CM_Return": 2.276882002876339,
+          "AV_Return": 0.002995897372205709
+        },
+        {
+          "RelativeDate": 92,
+          "Date": "2014-04-03",
+          "Return": 0,
+          "CM_Return": 2.2848263921514134,
+          "AV_Return": 0.003006350515988702
+        },
+        {
+          "RelativeDate": 93,
+          "Date": "2014-04-04",
+          "Return": 0,
+          "CM_Return": 2.318323929097226,
+          "AV_Return": 0.00305042622249635
+        },
+        {
+          "RelativeDate": 94,
+          "Date": "2014-04-05",
+          "Return": 0,
+          "CM_Return": 2.350735749878923,
+          "AV_Return": 0.0030930733551038465
+        },
+        {
+          "RelativeDate": 95,
+          "Date": "2014-04-06",
+          "Return": 0,
+          "CM_Return": 2.3479656667764304,
+          "AV_Return": 0.0030894285089163556
+        },
+        {
+          "RelativeDate": 96,
+          "Date": "2014-04-07",
+          "Return": 0,
+          "CM_Return": 2.3340767778875415,
+          "AV_Return": 0.003071153655115186
+        },
+        {
+          "RelativeDate": 97,
+          "Date": "2014-04-08",
+          "Return": 0,
+          "CM_Return": 2.3340767778875415,
+          "AV_Return": 0.003071153655115186
+        },
+        {
+          "RelativeDate": 98,
+          "Date": "2014-04-09",
+          "Return": 0,
+          "CM_Return": 2.3340767778875415,
+          "AV_Return": 0.003071153655115186
+        },
+        {
+          "RelativeDate": 99,
+          "Date": "2014-04-10",
+          "Return": 0,
+          "CM_Return": 2.359428890563598,
+          "AV_Return": 0.0031045116981099972
+        },
+        {
+          "RelativeDate": 100,
+          "Date": "2014-04-11",
+          "Return": 0,
+          "CM_Return": 2.387817168951876,
+          "AV_Return": 0.0031418646959893107
+        },
+        {
+          "RelativeDate": 101,
+          "Date": "2014-04-12",
+          "Return": 0,
+          "CM_Return": 2.4679596444638974,
+          "AV_Return": 0.003247315321663023
+        },
+        {
+          "RelativeDate": 102,
+          "Date": "2014-04-13",
+          "Return": 0,
+          "CM_Return": 2.440754368289124,
+          "AV_Return": 0.0032115189056435844
+        },
+        {
+          "RelativeDate": 103,
+          "Date": "2014-04-14",
+          "Return": 0,
+          "CM_Return": 2.4305848767637004,
+          "AV_Return": 0.003198137995741711
+        },
+        {
+          "RelativeDate": 104,
+          "Date": "2014-04-15",
+          "Return": 0,
+          "CM_Return": 2.4305848767637004,
+          "AV_Return": 0.003198137995741711
+        },
+        {
+          "RelativeDate": 105,
+          "Date": "2014-04-16",
+          "Return": 0,
+          "CM_Return": 2.4305848767637004,
+          "AV_Return": 0.003198137995741711
+        },
+        {
+          "RelativeDate": 106,
+          "Date": "2014-04-17",
+          "Return": 0,
+          "CM_Return": 2.4322972055308236,
+          "AV_Return": 0.0032003910599089783
+        },
+        {
+          "RelativeDate": 107,
+          "Date": "2014-04-18",
+          "Return": 0,
+          "CM_Return": 2.4049467781803964,
+          "AV_Return": 0.0031644036555005216
+        },
+        {
+          "RelativeDate": 108,
+          "Date": "2014-04-19",
+          "Return": 0,
+          "CM_Return": 2.3495864969853173,
+          "AV_Return": 0.0030915611802438386
+        },
+        {
+          "RelativeDate": 109,
+          "Date": "2014-04-20",
+          "Return": 0,
+          "CM_Return": 2.3012144039620614,
+          "AV_Return": 0.003027913689423765
+        },
+        {
+          "RelativeDate": 110,
+          "Date": "2014-04-21",
+          "Return": 0,
+          "CM_Return": 2.313922126347203,
+          "AV_Return": 0.0030446343767726357
+        },
+        {
+          "RelativeDate": 111,
+          "Date": "2014-04-22",
+          "Return": 0,
+          "CM_Return": 2.313922126347203,
+          "AV_Return": 0.0030446343767726357
+        },
+        {
+          "RelativeDate": 112,
+          "Date": "2014-04-23",
+          "Return": 0,
+          "CM_Return": 2.313922126347203,
+          "AV_Return": 0.0030446343767726357
+        },
+        {
+          "RelativeDate": 113,
+          "Date": "2014-04-24",
+          "Return": 0,
+          "CM_Return": 2.342879655304732,
+          "AV_Return": 0.0030827363885588582
+        },
+        {
+          "RelativeDate": 114,
+          "Date": "2014-04-25",
+          "Return": 0,
+          "CM_Return": 2.344755827912612,
+          "AV_Return": 0.003085205036727121
+        },
+        {
+          "RelativeDate": 115,
+          "Date": "2014-04-26",
+          "Return": 0,
+          "CM_Return": 2.3765910339051213,
+          "AV_Return": 0.003127093465664633
+        },
+        {
+          "RelativeDate": 116,
+          "Date": "2014-04-27",
+          "Return": 0,
+          "CM_Return": 2.397462177280802,
+          "AV_Return": 0.0031545554964221077
+        },
+        {
+          "RelativeDate": 117,
+          "Date": "2014-04-28",
+          "Return": 0,
+          "CM_Return": 2.4187955106141352,
+          "AV_Return": 0.0031826256718607043
+        },
+        {
+          "RelativeDate": 118,
+          "Date": "2014-04-29",
+          "Return": 0,
+          "CM_Return": 2.4187955106141352,
+          "AV_Return": 0.0031826256718607043
+        },
+        {
+          "RelativeDate": 119,
+          "Date": "2014-04-30",
+          "Return": 0,
+          "CM_Return": 2.4187955106141352,
+          "AV_Return": 0.0031826256718607043
+        },
+        {
+          "RelativeDate": 120,
+          "Date": "2014-05-01",
+          "Return": 0,
+          "CM_Return": 2.376149731675928,
+          "AV_Return": 0.0031265128048367477
+        },
+        {
+          "RelativeDate": 121,
+          "Date": "2014-05-02",
+          "Return": 0,
+          "CM_Return": 2.375240640766837,
+          "AV_Return": 0.0031253166325879438
+        },
+        {
+          "RelativeDate": 122,
+          "Date": "2014-05-03",
+          "Return": 0,
+          "CM_Return": 2.3788803131963183,
+          "AV_Return": 0.0031301056752583135
+        },
+        {
+          "RelativeDate": 123,
+          "Date": "2014-05-04",
+          "Return": 0,
+          "CM_Return": 2.3525883820993103,
+          "AV_Return": 0.00309551102907804
+        },
+        {
+          "RelativeDate": 124,
+          "Date": "2014-05-05",
+          "Return": 0,
+          "CM_Return": 2.3767969482073177,
+          "AV_Return": 0.0031273644055359443
+        },
+        {
+          "RelativeDate": 125,
+          "Date": "2014-05-06",
+          "Return": 0,
+          "CM_Return": 2.3767969482073177,
+          "AV_Return": 0.0031273644055359443
+        },
+        {
+          "RelativeDate": 126,
+          "Date": "2014-05-07",
+          "Return": 0,
+          "CM_Return": 2.3767969482073177,
+          "AV_Return": 0.0031273644055359443
+        },
+        {
+          "RelativeDate": 127,
+          "Date": "2014-05-08",
+          "Return": 0,
+          "CM_Return": 2.374069675480045,
+          "AV_Return": 0.0031237758887895334
+        },
+        {
+          "RelativeDate": 128,
+          "Date": "2014-05-09",
+          "Return": 0,
+          "CM_Return": 2.3458107876040195,
+          "AV_Return": 0.0030865931415842364
+        },
+        {
+          "RelativeDate": 129,
+          "Date": "2014-05-10",
+          "Return": 0,
+          "CM_Return": 2.3336156656528,
+          "AV_Return": 0.003070546928490526
+        },
+        {
+          "RelativeDate": 130,
+          "Date": "2014-05-11",
+          "Return": 0,
+          "CM_Return": 2.3336156656528,
+          "AV_Return": 0.003070546928490526
+        },
+        {
+          "RelativeDate": 131,
+          "Date": "2014-05-12",
+          "Return": 0,
+          "CM_Return": 2.3450116770488116,
+          "AV_Return": 0.0030855416803273836
+        },
+        {
+          "RelativeDate": 132,
+          "Date": "2014-05-13",
+          "Return": 0,
+          "CM_Return": 2.3450116770488116,
+          "AV_Return": 0.0030855416803273836
+        },
+        {
+          "RelativeDate": 133,
+          "Date": "2014-05-14",
+          "Return": 0,
+          "CM_Return": 2.3450116770488116,
+          "AV_Return": 0.0030855416803273836
+        },
+        {
+          "RelativeDate": 134,
+          "Date": "2014-05-15",
+          "Return": 0,
+          "CM_Return": 2.3450116770488116,
+          "AV_Return": 0.0030855416803273836
+        },
+        {
+          "RelativeDate": 135,
+          "Date": "2014-05-16",
+          "Return": 0,
+          "CM_Return": 2.330927170006558,
+          "AV_Return": 0.0030670094342191553
+        },
+        {
+          "RelativeDate": 136,
+          "Date": "2014-05-17",
+          "Return": 0,
+          "CM_Return": 2.3661652652446534,
+          "AV_Return": 0.003113375349006123
+        },
+        {
+          "RelativeDate": 137,
+          "Date": "2014-05-18",
+          "Return": 0,
+          "CM_Return": 2.3532857804240463,
+          "AV_Return": 0.0030964286584526926
+        },
+        {
+          "RelativeDate": 138,
+          "Date": "2014-05-19",
+          "Return": 0,
+          "CM_Return": 2.3560816797716697,
+          "AV_Return": 0.003100107473383776
+        },
+        {
+          "RelativeDate": 139,
+          "Date": "2014-05-20",
+          "Return": 0,
+          "CM_Return": 2.3560816797716697,
+          "AV_Return": 0.003100107473383776
+        },
+        {
+          "RelativeDate": 140,
+          "Date": "2014-05-21",
+          "Return": 0,
+          "CM_Return": 2.3560816797716697,
+          "AV_Return": 0.003100107473383776
+        },
+        {
+          "RelativeDate": 141,
+          "Date": "2014-05-22",
+          "Return": 0,
+          "CM_Return": 2.3560816797716697,
+          "AV_Return": 0.003100107473383776
+        },
+        {
+          "RelativeDate": 142,
+          "Date": "2014-05-23",
+          "Return": 0,
+          "CM_Return": 2.3635166240095877,
+          "AV_Return": 0.0031098902947494576
+        },
+        {
+          "RelativeDate": 143,
+          "Date": "2014-05-24",
+          "Return": 0,
+          "CM_Return": 2.3736642254856024,
+          "AV_Return": 0.00312324240195474
+        },
+        {
+          "RelativeDate": 144,
+          "Date": "2014-05-25",
+          "Return": 0,
+          "CM_Return": 2.358139111330351,
+          "AV_Return": 0.0031028146201715146
+        },
+        {
+          "RelativeDate": 145,
+          "Date": "2014-05-26",
+          "Return": 0,
+          "CM_Return": 2.311756922091019,
+          "AV_Return": 0.0030417854238039724
+        },
+        {
+          "RelativeDate": 146,
+          "Date": "2014-05-27",
+          "Return": 0,
+          "CM_Return": 2.311756922091019,
+          "AV_Return": 0.0030417854238039724
+        },
+        {
+          "RelativeDate": 147,
+          "Date": "2014-05-28",
+          "Return": 0,
+          "CM_Return": 2.311756922091019,
+          "AV_Return": 0.0030417854238039724
+        },
+        {
+          "RelativeDate": 148,
+          "Date": "2014-05-29",
+          "Return": 0,
+          "CM_Return": 2.3185662606124198,
+          "AV_Return": 0.0030507450797531838
+        },
+        {
+          "RelativeDate": 149,
+          "Date": "2014-05-30",
+          "Return": 0,
+          "CM_Return": 2.307938241288748,
+          "AV_Return": 0.0030367608438009843
+        },
+        {
+          "RelativeDate": 150,
+          "Date": "2014-05-31",
+          "Return": 0,
+          "CM_Return": 2.311844491288748,
+          "AV_Return": 0.0030419006464325635
+        },
+        {
+          "RelativeDate": 151,
+          "Date": "2014-06-01",
+          "Return": 0,
+          "CM_Return": 2.3050351527673474,
+          "AV_Return": 0.0030329409904833516
+        },
+        {
+          "RelativeDate": 152,
+          "Date": "2014-06-02",
+          "Return": 0,
+          "CM_Return": 2.3020968569789044,
+          "AV_Return": 0.003029074811814348
+        },
+        {
+          "RelativeDate": 153,
+          "Date": "2014-06-03",
+          "Return": 0,
+          "CM_Return": 2.3020968569789044,
+          "AV_Return": 0.003029074811814348
+        },
+        {
+          "RelativeDate": 154,
+          "Date": "2014-06-04",
+          "Return": 0,
+          "CM_Return": 2.3020968569789044,
+          "AV_Return": 0.003029074811814348
+        },
+        {
+          "RelativeDate": 155,
+          "Date": "2014-06-05",
+          "Return": 0,
+          "CM_Return": 2.3129023579612227,
+          "AV_Return": 0.0030432925762647668
+        },
+        {
+          "RelativeDate": 156,
+          "Date": "2014-06-06",
+          "Return": 0,
+          "CM_Return": 2.3022123676793957,
+          "AV_Return": 0.0030292267995781523
+        },
+        {
+          "RelativeDate": 157,
+          "Date": "2014-06-07",
+          "Return": 0,
+          "CM_Return": 2.295336139781557,
+          "AV_Return": 0.003020179131291522
+        },
+        {
+          "RelativeDate": 158,
+          "Date": "2014-06-08",
+          "Return": 0,
+          "CM_Return": 2.321053251552081,
+          "AV_Return": 0.003054017436252738
+        },
+        {
+          "RelativeDate": 159,
+          "Date": "2014-06-09",
+          "Return": 0,
+          "CM_Return": 2.381805421272428,
+          "AV_Return": 0.0031339545016742473
+        },
+        {
+          "RelativeDate": 160,
+          "Date": "2014-06-10",
+          "Return": 0,
+          "CM_Return": 2.381805421272428,
+          "AV_Return": 0.0031339545016742473
+        },
+        {
+          "RelativeDate": 161,
+          "Date": "2014-06-11",
+          "Return": 0,
+          "CM_Return": 2.381805421272428,
+          "AV_Return": 0.0031339545016742473
+        },
+        {
+          "RelativeDate": 162,
+          "Date": "2014-06-12",
+          "Return": 0,
+          "CM_Return": 2.4081690576360644,
+          "AV_Return": 0.003168643496889558
+        },
+        {
+          "RelativeDate": 163,
+          "Date": "2014-06-13",
+          "Return": 0,
+          "CM_Return": 2.393997224155108,
+          "AV_Return": 0.0031499963475725107
+        },
+        {
+          "RelativeDate": 164,
+          "Date": "2014-06-14",
+          "Return": 0,
+          "CM_Return": 2.4038804227175516,
+          "AV_Return": 0.0031630005562073046
+        },
+        {
+          "RelativeDate": 165,
+          "Date": "2014-06-15",
+          "Return": 0,
+          "CM_Return": 2.453702486774491,
+          "AV_Return": 0.003228555903650646
+        },
+        {
+          "RelativeDate": 166,
+          "Date": "2014-06-16",
+          "Return": 0,
+          "CM_Return": 2.437600791859237,
+          "AV_Return": 0.0032073694629726804
+        },
+        {
+          "RelativeDate": 167,
+          "Date": "2014-06-17",
+          "Return": 0,
+          "CM_Return": 2.437600791859237,
+          "AV_Return": 0.0032073694629726804
+        },
+        {
+          "RelativeDate": 168,
+          "Date": "2014-06-18",
+          "Return": 0,
+          "CM_Return": 2.437600791859237,
+          "AV_Return": 0.0032073694629726804
+        },
+        {
+          "RelativeDate": 169,
+          "Date": "2014-06-19",
+          "Return": 0,
+          "CM_Return": 2.4401847711874027,
+          "AV_Return": 0.0032107694357728983
+        },
+        {
+          "RelativeDate": 170,
+          "Date": "2014-06-20",
+          "Return": 0,
+          "CM_Return": 2.443621197304241,
+          "AV_Return": 0.003215291049084528
+        },
+        {
+          "RelativeDate": 171,
+          "Date": "2014-06-21",
+          "Return": 0,
+          "CM_Return": 2.4470458548384877,
+          "AV_Return": 0.003219797177419063
+        },
+        {
+          "RelativeDate": 172,
+          "Date": "2014-06-22",
+          "Return": 0,
+          "CM_Return": 2.4385134316302963,
+          "AV_Return": 0.0032085703047767056
+        },
+        {
+          "RelativeDate": 173,
+          "Date": "2014-06-23",
+          "Return": 0,
+          "CM_Return": 2.4299075796509504,
+          "AV_Return": 0.003197246815330198
+        },
+        {
+          "RelativeDate": 174,
+          "Date": "2014-06-24",
+          "Return": 0,
+          "CM_Return": 2.4299075796509504,
+          "AV_Return": 0.003197246815330198
+        },
+        {
+          "RelativeDate": 175,
+          "Date": "2014-06-25",
+          "Return": 0,
+          "CM_Return": 2.4299075796509504,
+          "AV_Return": 0.003197246815330198
+        },
+        {
+          "RelativeDate": 176,
+          "Date": "2014-06-26",
+          "Return": 0,
+          "CM_Return": 2.4325117463176174,
+          "AV_Return": 0.0032006733504179176
+        },
+        {
+          "RelativeDate": 177,
+          "Date": "2014-06-27",
+          "Return": 0,
+          "CM_Return": 2.4238537376596088,
+          "AV_Return": 0.003189281233762643
+        },
+        {
+          "RelativeDate": 178,
+          "Date": "2014-06-28",
+          "Return": 0,
+          "CM_Return": 2.4142467507600456,
+          "AV_Return": 0.003176640461526376
+        },
+        {
+          "RelativeDate": 179,
+          "Date": "2014-06-29",
+          "Return": 0,
+          "CM_Return": 2.466274969454931,
+          "AV_Return": 0.003245098644019646
+        },
+        {
+          "RelativeDate": 180,
+          "Date": "2014-06-30",
+          "Return": 0,
+          "CM_Return": 2.4562162938472194,
+          "AV_Return": 0.003231863544535815
+        },
+        {
+          "RelativeDate": 181,
+          "Date": "2014-07-01",
+          "Return": 0,
+          "CM_Return": 2.4562162938472194,
+          "AV_Return": 0.003231863544535815
+        },
+        {
+          "RelativeDate": 182,
+          "Date": "2014-07-02",
+          "Return": 0,
+          "CM_Return": 2.4562162938472194,
+          "AV_Return": 0.003231863544535815
+        },
+        {
+          "RelativeDate": 183,
+          "Date": "2014-07-03",
+          "Return": 0,
+          "CM_Return": 2.4756913150157205,
+          "AV_Return": 0.003257488572389106
+        },
+        {
+          "RelativeDate": 184,
+          "Date": "2014-07-04",
+          "Return": 0,
+          "CM_Return": 2.4906414811286774,
+          "AV_Return": 0.003277159843590365
+        },
+        {
+          "RelativeDate": 185,
+          "Date": "2014-07-05",
+          "Return": 0,
+          "CM_Return": 2.5086447544510997,
+          "AV_Return": 0.003300848361119868
+        },
+        {
+          "RelativeDate": 186,
+          "Date": "2014-07-06",
+          "Return": 0,
+          "CM_Return": 2.587422889499331,
+          "AV_Return": 0.0034045038019728043
+        },
+        {
+          "RelativeDate": 187,
+          "Date": "2014-07-07",
+          "Return": 0,
+          "CM_Return": 2.5784810117049943,
+          "AV_Return": 0.0033927381732960452
+        },
+        {
+          "RelativeDate": 188,
+          "Date": "2014-07-08",
+          "Return": 0,
+          "CM_Return": 2.5784810117049943,
+          "AV_Return": 0.0033927381732960452
+        },
+        {
+          "RelativeDate": 189,
+          "Date": "2014-07-09",
+          "Return": 0,
+          "CM_Return": 2.5784810117049943,
+          "AV_Return": 0.0033927381732960452
+        },
+        {
+          "RelativeDate": 190,
+          "Date": "2014-07-10",
+          "Return": 0,
+          "CM_Return": 2.6032930417801823,
+          "AV_Return": 0.0034253855812897134
+        },
+        {
+          "RelativeDate": 191,
+          "Date": "2014-07-11",
+          "Return": 0,
+          "CM_Return": 2.601092014634181,
+          "AV_Return": 0.003422489492939712
+        },
+        {
+          "RelativeDate": 192,
+          "Date": "2014-07-12",
+          "Return": 0,
+          "CM_Return": 2.5871214263988866,
+          "AV_Return": 0.003404107139998535
+        },
+        {
+          "RelativeDate": 193,
+          "Date": "2014-07-13",
+          "Return": 0,
+          "CM_Return": 2.590104275019319,
+          "AV_Return": 0.0034080319408148936
+        },
+        {
+          "RelativeDate": 194,
+          "Date": "2014-07-14",
+          "Return": 0,
+          "CM_Return": 2.592334758290695,
+          "AV_Return": 0.0034109667872245985
+        },
+        {
+          "RelativeDate": 195,
+          "Date": "2014-07-15",
+          "Return": 0,
+          "CM_Return": 2.592334758290695,
+          "AV_Return": 0.0034109667872245985
+        },
+        {
+          "RelativeDate": 196,
+          "Date": "2014-07-16",
+          "Return": 0,
+          "CM_Return": 2.592334758290695,
+          "AV_Return": 0.0034109667872245985
+        },
+        {
+          "RelativeDate": 197,
+          "Date": "2014-07-17",
+          "Return": 0,
+          "CM_Return": 2.612364431881199,
+          "AV_Return": 0.0034373216208963145
+        },
+        {
+          "RelativeDate": 198,
+          "Date": "2014-07-18",
+          "Return": 0,
+          "CM_Return": 2.5978189773357445,
+          "AV_Return": 0.003418182864915453
+        },
+        {
+          "RelativeDate": 199,
+          "Date": "2014-07-19",
+          "Return": 0,
+          "CM_Return": 2.551324512391095,
+          "AV_Return": 0.003357005937356704
+        },
+        {
+          "RelativeDate": 200,
+          "Date": "2014-07-20",
+          "Return": 0,
+          "CM_Return": 2.586154233753324,
+          "AV_Return": 0.003402834518096479
+        },
+        {
+          "RelativeDate": 201,
+          "Date": "2014-07-21",
+          "Return": 0,
+          "CM_Return": 2.5958774947854857,
+          "AV_Return": 0.003415628282612481
+        },
+        {
+          "RelativeDate": 202,
+          "Date": "2014-07-22",
+          "Return": 0,
+          "CM_Return": 2.5958774947854857,
+          "AV_Return": 0.003415628282612481
+        },
+        {
+          "RelativeDate": 203,
+          "Date": "2014-07-23",
+          "Return": 0,
+          "CM_Return": 2.5958774947854857,
+          "AV_Return": 0.003415628282612481
+        },
+        {
+          "RelativeDate": 204,
+          "Date": "2014-07-24",
+          "Return": 0,
+          "CM_Return": 2.646988605896597,
+          "AV_Return": 0.0034828797446007855
+        },
+        {
+          "RelativeDate": 205,
+          "Date": "2014-07-25",
+          "Return": 0,
+          "CM_Return": 2.699842728518161,
+          "AV_Return": 0.0035524246427870543
+        },
+        {
+          "RelativeDate": 206,
+          "Date": "2014-07-26",
+          "Return": 0,
+          "CM_Return": 2.7031894487323513,
+          "AV_Return": 0.003556828222016252
+        },
+        {
+          "RelativeDate": 207,
+          "Date": "2014-07-27",
+          "Return": 0,
+          "CM_Return": 2.6971854460639055,
+          "AV_Return": 0.0035489282185051387
+        },
+        {
+          "RelativeDate": 208,
+          "Date": "2014-07-28",
+          "Return": 0,
+          "CM_Return": 2.634098197741758,
+          "AV_Return": 0.003465918681239155
+        },
+        {
+          "RelativeDate": 209,
+          "Date": "2014-07-29",
+          "Return": 0,
+          "CM_Return": 2.634098197741758,
+          "AV_Return": 0.003465918681239155
+        },
+        {
+          "RelativeDate": 210,
+          "Date": "2014-07-30",
+          "Return": 0,
+          "CM_Return": 2.634098197741758,
+          "AV_Return": 0.003465918681239155
+        },
+        {
+          "RelativeDate": 211,
+          "Date": "2014-07-31",
+          "Return": 0,
+          "CM_Return": 2.5939835845612422,
+          "AV_Return": 0.003413136295475319
+        },
+        {
+          "RelativeDate": 212,
+          "Date": "2014-08-01",
+          "Return": 0,
+          "CM_Return": 2.5924910472478095,
+          "AV_Return": 0.003411172430589223
+        },
+        {
+          "RelativeDate": 213,
+          "Date": "2014-08-02",
+          "Return": 0,
+          "CM_Return": 2.579038132449603,
+          "AV_Return": 0.0033934712269073726
+        },
+        {
+          "RelativeDate": 214,
+          "Date": "2014-08-03",
+          "Return": 0,
+          "CM_Return": 2.594189647601118,
+          "AV_Return": 0.003413407431054103
+        },
+        {
+          "RelativeDate": 215,
+          "Date": "2014-08-04",
+          "Return": 0,
+          "CM_Return": 2.622547856556342,
+          "AV_Return": 0.0034507208638899236
+        },
+        {
+          "RelativeDate": 216,
+          "Date": "2014-08-05",
+          "Return": 0,
+          "CM_Return": 2.622547856556342,
+          "AV_Return": 0.0034507208638899236
+        },
+        {
+          "RelativeDate": 217,
+          "Date": "2014-08-06",
+          "Return": 0.049808429118774075,
+          "CM_Return": 2.622547856556342,
+          "AV_Return": 0.0034507208638899236
+        },
+        {
+          "RelativeDate": 218,
+          "Date": "2014-08-07",
+          "Return": 0.043795620437956075,
+          "CM_Return": 2.5604027075536795,
+          "AV_Return": 0.0033689509309916834
+        },
+        {
+          "RelativeDate": 219,
+          "Date": "2014-08-08",
+          "Return": -0.013986013986014,
+          "CM_Return": 2.5342411796947095,
+          "AV_Return": 0.0033345278680193546
+        },
+        {
+          "RelativeDate": 220,
+          "Date": "2014-08-09",
+          "Return": 0,
+          "CM_Return": 2.56122358357242,
+          "AV_Return": 0.003370031031016342
+        },
+        {
+          "RelativeDate": 221,
+          "Date": "2014-08-10",
+          "Return": 0,
+          "CM_Return": 2.5198835978275875,
+          "AV_Return": 0.0033156363129310364
+        },
+        {
+          "RelativeDate": 222,
+          "Date": "2014-08-11",
+          "Return": -0.0035460992907800663,
+          "CM_Return": 2.496835270690041,
+          "AV_Return": 0.003285309566697422
+        },
+        {
+          "RelativeDate": 223,
+          "Date": "2014-08-12",
+          "Return": -0.024911032028469695,
+          "CM_Return": 2.500381369980821,
+          "AV_Return": 0.00328997548681687
+        },
+        {
+          "RelativeDate": 224,
+          "Date": "2014-08-13",
+          "Return": -0.014598540145985413,
+          "CM_Return": 2.5252924020092906,
+          "AV_Return": 0.0033227531605385403
+        },
+        {
+          "RelativeDate": 225,
+          "Date": "2014-08-14",
+          "Return": 0.02962962962962949,
+          "CM_Return": 2.5155378219117446,
+          "AV_Return": 0.0033099181867259795
+        },
+        {
+          "RelativeDate": 226,
+          "Date": "2014-08-15",
+          "Return": 0,
+          "CM_Return": 2.5007287851058284,
+          "AV_Return": 0.003290432611981353
+        },
+        {
+          "RelativeDate": 227,
+          "Date": "2014-08-16",
+          "Return": 0,
+          "CM_Return": 2.4807441578959897,
+          "AV_Return": 0.0032641370498631443
+        },
+        {
+          "RelativeDate": 228,
+          "Date": "2014-08-17",
+          "Return": 0,
+          "CM_Return": 2.4768225892685387,
+          "AV_Return": 0.003258977091142814
+        },
+        {
+          "RelativeDate": 229,
+          "Date": "2014-08-18",
+          "Return": 0.014388489208633108,
+          "CM_Return": 2.5075312506858616,
+          "AV_Return": 0.00329938322458666
+        },
+        {
+          "RelativeDate": 230,
+          "Date": "2014-08-19",
+          "Return": 0.0070921985815602905,
+          "CM_Return": 2.4931427614772286,
+          "AV_Return": 0.003280451001943722
+        },
+        {
+          "RelativeDate": 231,
+          "Date": "2014-08-20",
+          "Return": 0,
+          "CM_Return": 2.4860505628956684,
+          "AV_Return": 0.003271119161704827
+        },
+        {
+          "RelativeDate": 232,
+          "Date": "2014-08-21",
+          "Return": -0.014084507042253534,
+          "CM_Return": 2.4600765369216426,
+          "AV_Return": 0.0032369428117390033
+        },
+        {
+          "RelativeDate": 233,
+          "Date": "2014-08-22",
+          "Return": -0.0142857142857143,
+          "CM_Return": 2.434161043963896,
+          "AV_Return": 0.0032028434788998633
+        },
+        {
+          "RelativeDate": 234,
+          "Date": "2014-08-23",
+          "Return": 0,
+          "CM_Return": 2.447629764785558,
+          "AV_Return": 0.0032205654799809975
+        },
+        {
+          "RelativeDate": 235,
+          "Date": "2014-08-24",
+          "Return": 0,
+          "CM_Return": 2.4803362243113143,
+          "AV_Return": 0.003263600295146466
+        },
+        {
+          "RelativeDate": 236,
+          "Date": "2014-08-25",
+          "Return": 0.010869565217391396,
+          "CM_Return": 2.5088397872566826,
+          "AV_Return": 0.0033011049832324772
+        },
+        {
+          "RelativeDate": 237,
+          "Date": "2014-08-26",
+          "Return": 0.0035842293906809273,
+          "CM_Return": 2.497970222039291,
+          "AV_Return": 0.003286802923735909
+        },
+        {
+          "RelativeDate": 238,
+          "Date": "2014-08-27",
+          "Return": -0.00714285714285715,
+          "CM_Return": 2.4943859926486103,
+          "AV_Return": 0.0032820868324323817
+        },
+        {
+          "RelativeDate": 239,
+          "Date": "2014-08-28",
+          "Return": -0.028776978417266053,
+          "CM_Return": 2.4992193809692966,
+          "AV_Return": 0.0032884465539069693
+        },
+        {
+          "RelativeDate": 240,
+          "Date": "2014-08-29",
+          "Return": 0.014814814814814828,
+          "CM_Return": 2.528767964324834,
+          "AV_Return": 0.003327326268848466
+        },
+        {
+          "RelativeDate": 241,
+          "Date": "2014-08-30",
+          "Return": 0,
+          "CM_Return": 2.518579209648801,
+          "AV_Return": 0.0033139200126957907
+        },
+        {
+          "RelativeDate": 242,
+          "Date": "2014-08-31",
+          "Return": 0,
+          "CM_Return": 2.5224165081906276,
+          "AV_Return": 0.00331896908972451
+        },
+        {
+          "RelativeDate": 243,
+          "Date": "2014-09-01",
+          "Return": 0.007299270072992544,
+          "CM_Return": 2.517064826233441,
+          "AV_Return": 0.0033119274029387385
+        },
+        {
+          "RelativeDate": 244,
+          "Date": "2014-09-02",
+          "Return": -0.02173913043478247,
+          "CM_Return": 2.5097655561604486,
+          "AV_Return": 0.0033023231002111166
+        },
+        {
+          "RelativeDate": 245,
+          "Date": "2014-09-03",
+          "Return": 0,
+          "CM_Return": 2.5322733261033017,
+          "AV_Return": 0.0033319385869780287
+        },
+        {
+          "RelativeDate": 246,
+          "Date": "2014-09-04",
+          "Return": -0.029629629629629655,
+          "CM_Return": 2.515376244690091,
+          "AV_Return": 0.003309705585118541
+        },
+        {
+          "RelativeDate": 247,
+          "Date": "2014-09-05",
+          "Return": 0.022900763358778647,
+          "CM_Return": 2.51063087431972,
+          "AV_Return": 0.003303461676736474
+        },
+        {
+          "RelativeDate": 248,
+          "Date": "2014-09-06",
+          "Return": 0,
+          "CM_Return": 2.4933935413816535,
+          "AV_Return": 0.0032807809755021756
+        },
+        {
+          "RelativeDate": 249,
+          "Date": "2014-09-07",
+          "Return": 0,
+          "CM_Return": 2.500634088445209,
+          "AV_Return": 0.0032903080111121173
+        },
+        {
+          "RelativeDate": 250,
+          "Date": "2014-09-08",
+          "Return": -0.022388059701492557,
+          "CM_Return": 2.500634088445209,
+          "AV_Return": 0.0032903080111121173
+        },
+        {
+          "RelativeDate": 251,
+          "Date": "2014-09-09",
+          "Return": 0.015267175572519097,
+          "CM_Return": 2.5230221481467017,
+          "AV_Return": 0.003319765984403555
+        },
+        {
+          "RelativeDate": 252,
+          "Date": "2014-09-10",
+          "Return": -0.0075187969924812095,
+          "CM_Return": 2.463825260114119,
+          "AV_Return": 0.0032418753422554197
+        },
+        {
+          "RelativeDate": 253,
+          "Date": "2014-09-11",
+          "Return": -0.003787878787878875,
+          "CM_Return": 2.4847108073154556,
+          "AV_Return": 0.003269356325415073
+        },
+        {
+          "RelativeDate": 254,
+          "Date": "2014-09-12",
+          "Return": 0.011406844106463974,
+          "CM_Return": 2.479430260711743,
+          "AV_Return": 0.0032624082377786094
+        },
+        {
+          "RelativeDate": 255,
+          "Date": "2014-09-13",
+          "Return": 0,
+          "CM_Return": 2.461367842562018,
+          "AV_Return": 0.0032386418981079183
+        },
+        {
+          "RelativeDate": 256,
+          "Date": "2014-09-14",
+          "Return": 0,
+          "CM_Return": 2.4714180938182997,
+          "AV_Return": 0.0032518659129188152
+        },
+        {
+          "RelativeDate": 257,
+          "Date": "2014-09-15",
+          "Return": -0.011278195488721898,
+          "CM_Return": 2.4714180938182997,
+          "AV_Return": 0.0032518659129188152
+        },
+        {
+          "RelativeDate": 258,
+          "Date": "2014-09-16",
+          "Return": 0.003802281368821381,
+          "CM_Return": 2.4826962893070212,
+          "AV_Return": 0.003266705643825028
+        },
+        {
+          "RelativeDate": 259,
+          "Date": "2014-09-17",
+          "Return": 0.003787878787878707,
+          "CM_Return": 2.481381570127255,
+          "AV_Return": 0.003264975750167441
+        },
+        {
+          "RelativeDate": 260,
+          "Date": "2014-09-18",
+          "Return": 0.015094339622641523,
+          "CM_Return": 2.483383600355092,
+          "AV_Return": 0.0032676100004672267
+        },
+        {
+          "RelativeDate": 261,
+          "Date": "2014-09-19",
+          "Return": 0,
+          "CM_Return": 2.4575984712587666,
+          "AV_Return": 0.003233682199024693
+        },
+        {
+          "RelativeDate": 262,
+          "Date": "2014-09-20",
+          "Return": 0,
+          "CM_Return": 2.50664252778412,
+          "AV_Return": 0.003298213852347526
+        },
+        {
+          "RelativeDate": 263,
+          "Date": "2014-09-21",
+          "Return": 0,
+          "CM_Return": 2.552601323346719,
+          "AV_Return": 0.0033586859517719986
+        },
+        {
+          "RelativeDate": 264,
+          "Date": "2014-09-22",
+          "Return": 0.011152416356877417,
+          "CM_Return": 2.552601323346719,
+          "AV_Return": 0.0033586859517719986
+        },
+        {
+          "RelativeDate": 265,
+          "Date": "2014-09-23",
+          "Return": 0.029411764705882214,
+          "CM_Return": 2.541448906989842,
+          "AV_Return": 0.003344011719723476
+        },
+        {
+          "RelativeDate": 266,
+          "Date": "2014-09-24",
+          "Return": 0.02142857142857145,
+          "CM_Return": 2.5173401725869904,
+          "AV_Return": 0.003312289700772356
+        },
+        {
+          "RelativeDate": 267,
+          "Date": "2014-09-25",
+          "Return": -0.013986013986014,
+          "CM_Return": 2.4680291595608304,
+          "AV_Return": 0.0032474067888958293
+        },
+        {
+          "RelativeDate": 268,
+          "Date": "2014-09-26",
+          "Return": -0.0070921985815602905,
+          "CM_Return": 2.4254260262600225,
+          "AV_Return": 0.003191350034552661
+        },
+        {
+          "RelativeDate": 269,
+          "Date": "2014-09-27",
+          "Return": 0,
+          "CM_Return": 2.3938986685556336,
+          "AV_Return": 0.0031498666691521494
+        },
+        {
+          "RelativeDate": 270,
+          "Date": "2014-09-28",
+          "Return": 0,
+          "CM_Return": 2.403300377957343,
+          "AV_Return": 0.0031622373394175566
+        },
+        {
+          "RelativeDate": 271,
+          "Date": "2014-09-29",
+          "Return": 0,
+          "CM_Return": 2.403300377957343,
+          "AV_Return": 0.0031622373394175566
+        },
+        {
+          "RelativeDate": 272,
+          "Date": "2014-09-30",
+          "Return": -0.00714285714285715,
+          "CM_Return": 2.403300377957343,
+          "AV_Return": 0.0031622373394175566
+        },
+        {
+          "RelativeDate": 273,
+          "Date": "2014-10-01",
+          "Return": 0.025179856115108017,
+          "CM_Return": 2.373186672864806,
+          "AV_Return": 0.003122614043243166
+        },
+        {
+          "RelativeDate": 274,
+          "Date": "2014-10-02",
+          "Return": -0.01052631578947377,
+          "CM_Return": 2.3119470102413433,
+          "AV_Return": 0.003042035539791241
+        },
+        {
+          "RelativeDate": 275,
+          "Date": "2014-10-03",
+          "Return": -0.0070921985815602905,
+          "CM_Return": 2.3525828150819117,
+          "AV_Return": 0.003095503704055147
+        },
+        {
+          "RelativeDate": 276,
+          "Date": "2014-10-04",
+          "Return": 0,
+          "CM_Return": 2.3339885654792383,
+          "AV_Return": 0.0030710375861568925
+        },
+        {
+          "RelativeDate": 277,
+          "Date": "2014-10-05",
+          "Return": -0.0035714285714284954,
+          "CM_Return": 2.324897656388329,
+          "AV_Return": 0.003059075863668854
+        },
+        {
+          "RelativeDate": 278,
+          "Date": "2014-10-06",
+          "Return": -0.0035842293906810864,
+          "CM_Return": 2.3284690849597576,
+          "AV_Return": 0.0030637751117891547
+        },
+        {
+          "RelativeDate": 279,
+          "Date": "2014-10-07",
+          "Return": -0.007194244604316554,
+          "CM_Return": 2.3320533143504383,
+          "AV_Return": 0.003068491203092682
+        },
+        {
+          "RelativeDate": 280,
+          "Date": "2014-10-08",
+          "Return": 0.01449275362318842,
+          "CM_Return": 2.353009026844663,
+          "AV_Return": 0.003096064509006136
+        },
+        {
+          "RelativeDate": 281,
+          "Date": "2014-10-09",
+          "Return": -0.00714285714285715,
+          "CM_Return": 2.3602357302350496,
+          "AV_Return": 0.0031055733292566444
+        },
+        {
+          "RelativeDate": 282,
+          "Date": "2014-10-10",
+          "Return": 0,
+          "CM_Return": 2.3301775244903955,
+          "AV_Return": 0.0030660230585399942
+        },
+        {
+          "RelativeDate": 283,
+          "Date": "2014-10-11",
+          "Return": 0,
+          "CM_Return": 2.3761756845639925,
+          "AV_Return": 0.0031265469533736743
+        },
+        {
+          "RelativeDate": 284,
+          "Date": "2014-10-12",
+          "Return": -0.003597122302158197,
+          "CM_Return": 2.3409953855314507,
+          "AV_Return": 0.003080257086225593
+        },
+        {
+          "RelativeDate": 285,
+          "Date": "2014-10-13",
+          "Return": -0.010830324909747223,
+          "CM_Return": 2.344592507833609,
+          "AV_Return": 0.0030849901418863275
+        },
+        {
+          "RelativeDate": 286,
+          "Date": "2014-10-14",
+          "Return": 0.014598540145985252,
+          "CM_Return": 2.355422832743356,
+          "AV_Return": 0.0030992405693991525
+        },
+        {
+          "RelativeDate": 287,
+          "Date": "2014-10-15",
+          "Return": 0,
+          "CM_Return": 2.3426474466538885,
+          "AV_Return": 0.0030824308508603797
+        },
+        {
+          "RelativeDate": 288,
+          "Date": "2014-10-16",
+          "Return": -0.014388489208632947,
+          "CM_Return": 2.3444672828686293,
+          "AV_Return": 0.003084825372195565
+        },
+        {
+          "RelativeDate": 289,
+          "Date": "2014-10-17",
+          "Return": 0,
+          "CM_Return": 2.3588557720772623,
+          "AV_Return": 0.003103757594838503
+        },
+        {
+          "RelativeDate": 290,
+          "Date": "2014-10-18",
+          "Return": 0,
+          "CM_Return": 2.3534061807966085,
+          "AV_Return": 0.0030965870799955376
+        },
+        {
+          "RelativeDate": 291,
+          "Date": "2014-10-19",
+          "Return": 0.029197080291970663,
+          "CM_Return": 2.345187002714417,
+          "AV_Return": 0.0030857723719926538
+        },
+        {
+          "RelativeDate": 292,
+          "Date": "2014-10-20",
+          "Return": 0.0035460992907802237,
+          "CM_Return": 2.3159899224224465,
+          "AV_Return": 0.0030473551610821666
+        },
+        {
+          "RelativeDate": 293,
+          "Date": "2014-10-21",
+          "Return": 0.01060070671378085,
+          "CM_Return": 2.312443823131666,
+          "AV_Return": 0.0030426892409627184
+        },
+        {
+          "RelativeDate": 294,
+          "Date": "2014-10-22",
+          "Return": 0.0034965034965035776,
+          "CM_Return": 2.2825060998433,
+          "AV_Return": 0.003003297499793816
+        },
+        {
+          "RelativeDate": 295,
+          "Date": "2014-10-23",
+          "Return": -0.0034843205574913694,
+          "CM_Return": 2.3212631174735567,
+          "AV_Return": 0.003054293575623101
+        },
+        {
+          "RelativeDate": 296,
+          "Date": "2014-10-24",
+          "Return": 0,
+          "CM_Return": 2.3824050956887057,
+          "AV_Return": 0.0031347435469588234
+        },
+        {
+          "RelativeDate": 297,
+          "Date": "2014-10-25",
+          "Return": 0,
+          "CM_Return": 2.376442574393987,
+          "AV_Return": 0.0031268981242026143
+        },
+        {
+          "RelativeDate": 298,
+          "Date": "2014-10-26",
+          "Return": -0.003496503496503422,
+          "CM_Return": 2.40729090344283,
+          "AV_Return": 0.003167488030845829
+        },
+        {
+          "RelativeDate": 299,
+          "Date": "2014-10-27",
+          "Return": -0.01052631578947377,
+          "CM_Return": 2.4107874069393334,
+          "AV_Return": 0.003172088693341228
+        },
+        {
+          "RelativeDate": 300,
+          "Date": "2014-10-28",
+          "Return": -0.0070921985815602905,
+          "CM_Return": 2.421313722728807,
+          "AV_Return": 0.0031859391088536935
+        },
+        {
+          "RelativeDate": 301,
+          "Date": "2014-10-29",
+          "Return": 0.003571428571428654,
+          "CM_Return": 2.442537259631232,
+          "AV_Return": 0.0032138648153042524
+        },
+        {
+          "RelativeDate": 302,
+          "Date": "2014-10-30",
+          "Return": 0.007117437722419935,
+          "CM_Return": 2.4365068146663607,
+          "AV_Return": 0.003205930019297843
+        },
+        {
+          "RelativeDate": 303,
+          "Date": "2014-10-31",
+          "Return": 0,
+          "CM_Return": 2.4400713818740973,
+          "AV_Return": 0.003210620239308023
+        },
+        {
+          "RelativeDate": 304,
+          "Date": "2014-11-01",
+          "Return": 0,
+          "CM_Return": 2.4262502436627154,
+          "AV_Return": 0.003192434531135152
+        },
+        {
+          "RelativeDate": 305,
+          "Date": "2014-11-02",
+          "Return": -0.003533568904593721,
+          "CM_Return": 1.9909658248663427,
+          "AV_Return": 0.002619691874824135
+        },
+        {
+          "RelativeDate": 306,
+          "Date": "2014-11-03",
+          "Return": 0.014184397163120581,
+          "CM_Return": 1.9944993937709363,
+          "AV_Return": 0.002624341307593337
+        },
+        {
+          "RelativeDate": 307,
+          "Date": "2014-11-04",
+          "Return": 0.006993006993007,
+          "CM_Return": 1.9803149966078155,
+          "AV_Return": 0.002605677627115547
+        },
+        {
+          "RelativeDate": 308,
+          "Date": "2014-11-05",
+          "Return": 0.027777777777777804,
+          "CM_Return": 1.9309862231914512,
+          "AV_Return": 0.002540771346304541
+        },
+        {
+          "RelativeDate": 309,
+          "Date": "2014-11-06",
+          "Return": 0.04729729729729734,
+          "CM_Return": 1.880342591755137,
+          "AV_Return": 0.002474134989151496
+        },
+        {
+          "RelativeDate": 310,
+          "Date": "2014-11-07",
+          "Return": 0,
+          "CM_Return": 1.8455257936778084,
+          "AV_Return": 0.0024283234127339586
+        },
+        {
+          "RelativeDate": 311,
+          "Date": "2014-11-08",
+          "Return": 0,
+          "CM_Return": 1.8732607705653277,
+          "AV_Return": 0.002464816803375431
+        },
+        {
+          "RelativeDate": 312,
+          "Date": "2014-11-09",
+          "Return": 0,
+          "CM_Return": 1.8747600209401403,
+          "AV_Return": 0.0024667895012370268
+        },
+        {
+          "RelativeDate": 313,
+          "Date": "2014-11-10",
+          "Return": 0.029032258064516082,
+          "CM_Return": 1.8747600209401403,
+          "AV_Return": 0.0024667895012370268
+        },
+        {
+          "RelativeDate": 314,
+          "Date": "2014-11-11",
+          "Return": -0.05956112852664575,
+          "CM_Return": 1.845727762875624,
+          "AV_Return": 0.0024285891616784524
+        },
+        {
+          "RelativeDate": 315,
+          "Date": "2014-11-12",
+          "Return": 0.06666666666666672,
+          "CM_Return": 1.90528889140227,
+          "AV_Return": 0.002506959067634566
+        },
+        {
+          "RelativeDate": 316,
+          "Date": "2014-11-13",
+          "Return": 0.06249999999999992,
+          "CM_Return": 1.8386222247356028,
+          "AV_Return": 0.002419239769388951
+        },
+        {
+          "RelativeDate": 317,
+          "Date": "2014-11-14",
+          "Return": 0,
+          "CM_Return": 1.7761222247356028,
+          "AV_Return": 0.0023370029272836877
+        },
+        {
+          "RelativeDate": 318,
+          "Date": "2014-11-15",
+          "Return": 0,
+          "CM_Return": 1.7761222247356028,
+          "AV_Return": 0.0023370029272836877
+        },
+        {
+          "RelativeDate": 319,
+          "Date": "2014-11-16",
+          "Return": 0.02941176470588238,
+          "CM_Return": 1.7761222247356028,
+          "AV_Return": 0.0023370029272836877
+        },
+        {
+          "RelativeDate": 320,
+          "Date": "2014-11-17",
+          "Return": -0.03714285714285711,
+          "CM_Return": 1.7467104600297214,
+          "AV_Return": 0.0022983032368812124
+        },
+        {
+          "RelativeDate": 321,
+          "Date": "2014-11-18",
+          "Return": -0.02077151335311581,
+          "CM_Return": 1.783853317172578,
+          "AV_Return": 0.002347175417332339
+        },
+        {
+          "RelativeDate": 322,
+          "Date": "2014-11-19",
+          "Return": 0,
+          "CM_Return": 1.8046248305256938,
+          "AV_Return": 0.0023745063559548604
+        },
+        {
+          "RelativeDate": 323,
+          "Date": "2014-11-20",
+          "Return": -0.018181818181818063,
+          "CM_Return": 1.8046248305256938,
+          "AV_Return": 0.0023745063559548604
+        },
+        {
+          "RelativeDate": 324,
+          "Date": "2014-11-21",
+          "Return": 0,
+          "CM_Return": 1.8228066487075119,
+          "AV_Return": 0.0023984298009309367
+        },
+        {
+          "RelativeDate": 325,
+          "Date": "2014-11-22",
+          "Return": 0,
+          "CM_Return": 1.8228066487075119,
+          "AV_Return": 0.0023984298009309367
+        },
+        {
+          "RelativeDate": 326,
+          "Date": "2014-11-23",
+          "Return": -0.012345679012345689,
+          "CM_Return": 1.8228066487075119,
+          "AV_Return": 0.0023984298009309367
+        },
+        {
+          "RelativeDate": 327,
+          "Date": "2014-11-24",
+          "Return": 0.018749999999999878,
+          "CM_Return": 1.8351523277198571,
+          "AV_Return": 0.0024146741154208646
+        },
+        {
+          "RelativeDate": 328,
+          "Date": "2014-11-25",
+          "Return": -0.009202453987730001,
+          "CM_Return": 1.8164023277198582,
+          "AV_Return": 0.002390003062789287
+        },
+        {
+          "RelativeDate": 329,
+          "Date": "2014-11-26",
+          "Return": 0.009287925696594366,
+          "CM_Return": 1.825604781707588,
+          "AV_Return": 0.002402111554878405
+        },
+        {
+          "RelativeDate": 330,
+          "Date": "2014-11-27",
+          "Return": -0.012269938650306624,
+          "CM_Return": 1.816316856010994,
+          "AV_Return": 0.0023898906000144656
+        },
+        {
+          "RelativeDate": 331,
+          "Date": "2014-11-28",
+          "Return": 0,
+          "CM_Return": 1.8285867946612997,
+          "AV_Return": 0.002406035256133289
+        },
+        {
+          "RelativeDate": 332,
+          "Date": "2014-11-29",
+          "Return": 0,
+          "CM_Return": 1.8285867946612997,
+          "AV_Return": 0.002406035256133289
+        },
+        {
+          "RelativeDate": 333,
+          "Date": "2014-11-30",
+          "Return": -0.015527950310559088,
+          "CM_Return": 1.8285867946612997,
+          "AV_Return": 0.002406035256133289
+        },
+        {
+          "RelativeDate": 334,
+          "Date": "2014-12-01",
+          "Return": -0.006309148264984233,
+          "CM_Return": 1.8441147449718585,
+          "AV_Return": 0.002426466769699814
+        },
+        {
+          "RelativeDate": 335,
+          "Date": "2014-12-02",
+          "Return": 0.003174603174603248,
+          "CM_Return": 1.850423893236843,
+          "AV_Return": 0.0024347682805747933
+        },
+        {
+          "RelativeDate": 336,
+          "Date": "2014-12-03",
+          "Return": 0,
+          "CM_Return": 1.8472492900622395,
+          "AV_Return": 0.0024305911711345256
+        },
+        {
+          "RelativeDate": 337,
+          "Date": "2014-12-04",
+          "Return": -0.015822784810126667,
+          "CM_Return": 1.8472492900622395,
+          "AV_Return": 0.0024305911711345256
+        },
+        {
+          "RelativeDate": 338,
+          "Date": "2014-12-05",
+          "Return": 0,
+          "CM_Return": 1.8630720748723666,
+          "AV_Return": 0.0024514106248320613
+        },
+        {
+          "RelativeDate": 339,
+          "Date": "2014-12-06",
+          "Return": 0,
+          "CM_Return": 1.8630720748723666,
+          "AV_Return": 0.0024514106248320613
+        },
+        {
+          "RelativeDate": 340,
+          "Date": "2014-12-07",
+          "Return": 0.0032154340836013607,
+          "CM_Return": 1.8630720748723666,
+          "AV_Return": 0.0024514106248320613
+        },
+        {
+          "RelativeDate": 341,
+          "Date": "2014-12-08",
+          "Return": -0.019230769230769246,
+          "CM_Return": 1.8598566407887656,
+          "AV_Return": 0.0024471797905115337
+        },
+        {
+          "RelativeDate": 342,
+          "Date": "2014-12-09",
+          "Return": -0.01960784313725492,
+          "CM_Return": 1.8790874100195347,
+          "AV_Return": 0.00247248343423623
+        },
+        {
+          "RelativeDate": 343,
+          "Date": "2014-12-10",
+          "Return": -0.02666666666666669,
+          "CM_Return": 1.8986952531567896,
+          "AV_Return": 0.002498283227837881
+        },
+        {
+          "RelativeDate": 344,
+          "Date": "2014-12-11",
+          "Return": -0.03082191780821913,
+          "CM_Return": 1.9253619198234564,
+          "AV_Return": 0.002533370947136127
+        },
+        {
+          "RelativeDate": 345,
+          "Date": "2014-12-12",
+          "Return": 0,
+          "CM_Return": 1.7570820412244894,
+          "AV_Return": 0.0023119500542427493
+        },
+        {
+          "RelativeDate": 346,
+          "Date": "2014-12-13",
+          "Return": 0,
+          "CM_Return": 1.5795119477665456,
+          "AV_Return": 0.0020783051944296654
+        },
+        {
+          "RelativeDate": 347,
+          "Date": "2014-12-14",
+          "Return": 0.10954063604240284,
+          "CM_Return": 1.4908755841301817,
+          "AV_Return": 0.0019616784001712916
+        },
+        {
+          "RelativeDate": 348,
+          "Date": "2014-12-15",
+          "Return": 0.006369426751592362,
+          "CM_Return": 1.3813349480877786,
+          "AV_Return": 0.0018175459843260244
+        },
+        {
+          "RelativeDate": 349,
+          "Date": "2014-12-16",
+          "Return": 0.03164556962025305,
+          "CM_Return": 1.3749655213361864,
+          "AV_Return": 0.0018091651596528768
+        },
+        {
+          "RelativeDate": 350,
+          "Date": "2014-12-17",
+          "Return": -0.009202453987730001,
+          "CM_Return": 1.3807264355064572,
+          "AV_Return": 0.0018167453098769173
+        },
+        {
+          "RelativeDate": 351,
+          "Date": "2014-12-18",
+          "Return": 0.015479876160990657,
+          "CM_Return": 1.3803135048788029,
+          "AV_Return": 0.001816201980103688
+        },
+        {
+          "RelativeDate": 352,
+          "Date": "2014-12-19",
+          "Return": 0,
+          "CM_Return": 1.3429889685236374,
+          "AV_Return": 0.0017670907480574177
+        },
+        {
+          "RelativeDate": 353,
+          "Date": "2014-12-20",
+          "Return": 0,
+          "CM_Return": 1.3181750727419996,
+          "AV_Return": 0.0017344408851868416
+        },
+        {
+          "RelativeDate": 354,
+          "Date": "2014-12-21",
+          "Return": 0.0060975609756097615,
+          "CM_Return": 1.3385313068386917,
+          "AV_Return": 0.0017612254037351206
+        },
+        {
+          "RelativeDate": 355,
+          "Date": "2014-12-22",
+          "Return": 0,
+          "CM_Return": 1.3324337458630822,
+          "AV_Return": 0.0017532022971882661
+        },
+        {
+          "RelativeDate": 356,
+          "Date": "2014-12-23",
+          "Return": 0.012121212121212133,
+          "CM_Return": 1.3324337458630822,
+          "AV_Return": 0.0017532022971882661
+        },
+        {
+          "RelativeDate": 357,
+          "Date": "2014-12-24",
+          "Return": 0,
+          "CM_Return": 1.280412284365311,
+          "AV_Return": 0.0016847530057438303
+        },
+        {
+          "RelativeDate": 358,
+          "Date": "2014-12-25",
+          "Return": 0,
+          "CM_Return": 1.2622304661834927,
+          "AV_Return": 0.0016608295607677536
+        },
+        {
+          "RelativeDate": 359,
+          "Date": "2014-12-26",
+          "Return": 0,
+          "CM_Return": 1.2701669741200006,
+          "AV_Return": 0.0016712723343684217
+        },
+        {
+          "RelativeDate": 360,
+          "Date": "2014-12-27",
+          "Return": 0,
+          "CM_Return": 1.2701669741200006,
+          "AV_Return": 0.0016712723343684217
+        },
+        {
+          "RelativeDate": 361,
+          "Date": "2014-12-28",
+          "Return": -0.008982035928143655,
+          "CM_Return": 1.3016630371121265,
+          "AV_Return": 0.001712714522515956
+        },
+        {
+          "RelativeDate": 362,
+          "Date": "2014-12-29",
+          "Return": 0.024169184290030232,
+          "CM_Return": 1.3106450730402706,
+          "AV_Return": 0.0017245329908424612
+        },
+        {
+          "RelativeDate": 363,
+          "Date": "2014-12-30",
+          "Return": -0.02654867256637177,
+          "CM_Return": 1.28647588875024,
+          "AV_Return": 0.0016927314325661054
+        },
+        {
+          "RelativeDate": 364,
+          "Date": "2014-12-31",
+          "Return": 0,
+          "CM_Return": 1.3384698539374777,
+          "AV_Return": 0.001761144544654576
+        },
+        {
+          "RelativeDate": 365,
+          "Date": "2015-01-01",
+          "Return": 0.024242424242424267,
+          "CM_Return": 1.3880976455007532,
+          "AV_Return": 0.001826444270395728
+        },
+        {
+          "RelativeDate": 366,
+          "Date": "2015-01-02",
+          "Return": 0,
+          "CM_Return": 1.3567630226767675,
+          "AV_Return": 0.0017852145035220626
+        },
+        {
+          "RelativeDate": 367,
+          "Date": "2015-01-03",
+          "Return": 0,
+          "CM_Return": 1.3710487369624818,
+          "AV_Return": 0.0018040114960032655
+        },
+        {
+          "RelativeDate": 368,
+          "Date": "2015-01-04",
+          "Return": -0.0059171597633136145,
+          "CM_Return": 1.375743572643233,
+          "AV_Return": 0.001810188911372675
+        },
+        {
+          "RelativeDate": 369,
+          "Date": "2015-01-05",
+          "Return": 0.008928571428571503,
+          "CM_Return": 1.3816607324065469,
+          "AV_Return": 0.0018179746479033512
+        },
+        {
+          "RelativeDate": 370,
+          "Date": "2015-01-06",
+          "Return": -0.0029498525073746993,
+          "CM_Return": 1.3727321609779752,
+          "AV_Return": 0.001806226527602599
+        },
+        {
+          "RelativeDate": 371,
+          "Date": "2015-01-07",
+          "Return": 0.008875739644970487,
+          "CM_Return": 1.4504483686255365,
+          "AV_Return": 0.0019084846955599165
+        },
+        {
+          "RelativeDate": 372,
+          "Date": "2015-01-08",
+          "Return": -0.014662756598240546,
+          "CM_Return": 1.506790020284914,
+          "AV_Return": 0.001982618447743308
+        },
+        {
+          "RelativeDate": 373,
+          "Date": "2015-01-09",
+          "Return": 0,
+          "CM_Return": 1.519411960556624,
+          "AV_Return": 0.001999226263890295
+        },
+        {
+          "RelativeDate": 374,
+          "Date": "2015-01-10",
+          "Return": 0,
+          "CM_Return": 1.4989620628061129,
+          "AV_Return": 0.001972318503692254
+        },
+        {
+          "RelativeDate": 375,
+          "Date": "2015-01-11",
+          "Return": -0.014880952380952328,
+          "CM_Return": 1.5031374281505805,
+          "AV_Return": 0.00197781240546129
+        },
+        {
+          "RelativeDate": 376,
+          "Date": "2015-01-12",
+          "Return": 0.024169184290030232,
+          "CM_Return": 1.5180183805315335,
+          "AV_Return": 0.001997392605962544
+        },
+        {
+          "RelativeDate": 377,
+          "Date": "2015-01-13",
+          "Return": -0.02654867256637177,
+          "CM_Return": 1.4938491962415021,
+          "AV_Return": 0.001965591047686187
+        },
+        {
+          "RelativeDate": 378,
+          "Date": "2015-01-14",
+          "Return": 0.0030303030303031006,
+          "CM_Return": 1.514160862570869,
+          "AV_Return": 0.001992316924435354
+        },
+        {
+          "RelativeDate": 379,
+          "Date": "2015-01-15",
+          "Return": 0.00906344410876127,
+          "CM_Return": 1.517406710168181,
+          "AV_Return": 0.00199658777653708
+        },
+        {
+          "RelativeDate": 380,
+          "Date": "2015-01-16",
+          "Return": 0,
+          "CM_Return": 1.5145802722964252,
+          "AV_Return": 0.0019928687793374015
+        },
+        {
+          "RelativeDate": 381,
+          "Date": "2015-01-17",
+          "Return": 0,
+          "CM_Return": 1.506315809486508,
+          "AV_Return": 0.0019819944861664577
+        },
+        {
+          "RelativeDate": 382,
+          "Date": "2015-01-18",
+          "Return": -0.008982035928143655,
+          "CM_Return": 1.4958991428198414,
+          "AV_Return": 0.001968288345815581
+        },
+        {
+          "RelativeDate": 383,
+          "Date": "2015-01-19",
+          "Return": 0.012084592145015116,
+          "CM_Return": 1.5048811787479859,
+          "AV_Return": 0.001980106814142087
+        },
+        {
+          "RelativeDate": 384,
+          "Date": "2015-01-20",
+          "Return": 0.0388059701492537,
+          "CM_Return": 1.49279658660297,
+          "AV_Return": 0.001964206035003908
+        },
+        {
+          "RelativeDate": 385,
+          "Date": "2015-01-21",
+          "Return": 0.002873563218390871,
+          "CM_Return": 1.4539906164537189,
+          "AV_Return": 0.0019131455479654196
+        },
+        {
+          "RelativeDate": 386,
+          "Date": "2015-01-22",
+          "Return": 0.040114613180515665,
+          "CM_Return": 1.4532223163932223,
+          "AV_Return": 0.0019121346268331871
+        },
+        {
+          "RelativeDate": 387,
+          "Date": "2015-01-23",
+          "Return": 0,
+          "CM_Return": 1.3963009805236302,
+          "AV_Return": 0.0018372381322679344
+        },
+        {
+          "RelativeDate": 388,
+          "Date": "2015-01-24",
+          "Return": 0,
+          "CM_Return": 1.3514291856518352,
+          "AV_Return": 0.0017781962969103096
+        },
+        {
+          "RelativeDate": 389,
+          "Date": "2015-01-25",
+          "Return": 0,
+          "CM_Return": 1.3133978657413208,
+          "AV_Return": 0.001728155086501738
+        },
+        {
+          "RelativeDate": 390,
+          "Date": "2015-01-26",
+          "Return": -0.02479338842975203,
+          "CM_Return": 1.3133978657413208,
+          "AV_Return": 0.001728155086501738
+        },
+        {
+          "RelativeDate": 391,
+          "Date": "2015-01-27",
+          "Return": -0.00847457627118651,
+          "CM_Return": 1.3381912541710739,
+          "AV_Return": 0.001760777966014571
+        },
+        {
+          "RelativeDate": 392,
+          "Date": "2015-01-28",
+          "Return": 0.02564102564102573,
+          "CM_Return": 1.3396890862562136,
+          "AV_Return": 0.0017627487977055442
+        },
+        {
+          "RelativeDate": 393,
+          "Date": "2015-01-29",
+          "Return": -0.0277777777777778,
+          "CM_Return": 1.3562026273599188,
+          "AV_Return": 0.001784477141263051
+        },
+        {
+          "RelativeDate": 394,
+          "Date": "2015-01-30",
+          "Return": 0,
+          "CM_Return": 1.3839804051376965,
+          "AV_Return": 0.0018210268488653902
+        },
+        {
+          "RelativeDate": 395,
+          "Date": "2015-01-31",
+          "Return": 0,
+          "CM_Return": 1.3817332141264607,
+          "AV_Return": 0.0018180700185874482
+        },
+        {
+          "RelativeDate": 396,
+          "Date": "2015-02-01",
+          "Return": 0.0057142857142857195,
+          "CM_Return": 1.3547061870994337,
+          "AV_Return": 0.0017825081409203075
+        },
+        {
+          "RelativeDate": 397,
+          "Date": "2015-02-02",
+          "Return": 0.02272727272727275,
+          "CM_Return": 1.348991901385148,
+          "AV_Return": 0.0017749893439278261
+        },
+        {
+          "RelativeDate": 398,
+          "Date": "2015-02-03",
+          "Return": 0.00555555555555556,
+          "CM_Return": 1.326264628657875,
+          "AV_Return": 0.0017450850377077303
+        },
+        {
+          "RelativeDate": 399,
+          "Date": "2015-02-04",
+          "Return": 0,
+          "CM_Return": 1.2998757397689853,
+          "AV_Return": 0.001710362815485507
+        },
+        {
+          "RelativeDate": 400,
+          "Date": "2015-02-05",
+          "Return": 0.04972375690607727,
+          "CM_Return": 1.2691428792488906,
+          "AV_Return": 0.0016699248411169614
+        },
+        {
+          "RelativeDate": 401,
+          "Date": "2015-02-06",
+          "Return": 0,
+          "CM_Return": 1.18039473209891,
+          "AV_Return": 0.0015531509632880397
+        },
+        {
+          "RelativeDate": 402,
+          "Date": "2015-02-07",
+          "Return": 0,
+          "CM_Return": 1.1829328031649,
+          "AV_Return": 0.0015564905304801316
+        },
+        {
+          "RelativeDate": 403,
+          "Date": "2015-02-08",
+          "Return": 0.026315789473684237,
+          "CM_Return": 1.1829328031649,
+          "AV_Return": 0.0015564905304801316
+        },
+        {
+          "RelativeDate": 404,
+          "Date": "2015-02-09",
+          "Return": -0.010256410256410265,
+          "CM_Return": 1.156617013691216,
+          "AV_Return": 0.0015218644916989684
+        },
+        {
+          "RelativeDate": 405,
+          "Date": "2015-02-10",
+          "Return": 0.0025906735751295936,
+          "CM_Return": 1.1668734239476266,
+          "AV_Return": 0.0015353597683521402
+        },
+        {
+          "RelativeDate": 406,
+          "Date": "2015-02-11",
+          "Return": 0.012919896640826828,
+          "CM_Return": 1.1592194592332565,
+          "AV_Return": 0.0015252887621490217
+        },
+        {
+          "RelativeDate": 407,
+          "Date": "2015-02-12",
+          "Return": 0.01785714285714293,
+          "CM_Return": 1.1564776796407747,
+          "AV_Return": 0.0015216811574220721
+        },
+        {
+          "RelativeDate": 408,
+          "Date": "2015-02-13",
+          "Return": 0,
+          "CM_Return": 1.1235071866576878,
+          "AV_Return": 0.001478298929812747
+        },
+        {
+          "RelativeDate": 409,
+          "Date": "2015-02-14",
+          "Return": 0,
+          "CM_Return": 1.0979317390873553,
+          "AV_Return": 0.0014446470251149412
+        },
+        {
+          "RelativeDate": 410,
+          "Date": "2015-02-15",
+          "Return": 0.017543859649122653,
+          "CM_Return": 1.0979317390873553,
+          "AV_Return": 0.0014446470251149412
+        },
+        {
+          "RelativeDate": 411,
+          "Date": "2015-02-16",
+          "Return": -0.014778325123152615,
+          "CM_Return": 1.080387879438233,
+          "AV_Return": 0.0014215629992608328
+        },
+        {
+          "RelativeDate": 412,
+          "Date": "2015-02-17",
+          "Return": 0.09499999999999997,
+          "CM_Return": 1.0951662045613855,
+          "AV_Return": 0.0014410081638965599
+        },
+        {
+          "RelativeDate": 413,
+          "Date": "2015-02-18",
+          "Return": 0.03196347031963463,
+          "CM_Return": 1.002790876477397,
+          "AV_Return": 0.0013194616795755222
+        },
+        {
+          "RelativeDate": 414,
+          "Date": "2015-02-19",
+          "Return": -0.008849557522123706,
+          "CM_Return": 1.1278954689849867,
+          "AV_Return": 0.0014840729855065615
+        },
+        {
+          "RelativeDate": 415,
+          "Date": "2015-02-20",
+          "Return": 0,
+          "CM_Return": 1.1593694608962501,
+          "AV_Return": 0.0015254861327582238
+        },
+        {
+          "RelativeDate": 416,
+          "Date": "2015-02-21",
+          "Return": 0,
+          "CM_Return": 1.179280965321029,
+          "AV_Return": 0.0015516854806855644
+        },
+        {
+          "RelativeDate": 417,
+          "Date": "2015-02-22",
+          "Return": -0.040178571428571556,
+          "CM_Return": 1.179280965321029,
+          "AV_Return": 0.0015516854806855644
+        },
+        {
+          "RelativeDate": 418,
+          "Date": "2015-02-23",
+          "Return": 0.023255813953488497,
+          "CM_Return": 1.219459536749601,
+          "AV_Return": 0.0016045520220389488
+        },
+        {
+          "RelativeDate": 419,
+          "Date": "2015-02-24",
+          "Return": 0,
+          "CM_Return": 1.196203722796113,
+          "AV_Return": 0.0015739522668369909
+        },
+        {
+          "RelativeDate": 420,
+          "Date": "2015-02-25",
+          "Return": 0,
+          "CM_Return": 1.1896961306052236,
+          "AV_Return": 0.001565389645533189
+        },
+        {
+          "RelativeDate": 421,
+          "Date": "2015-02-26",
+          "Return": 0.018181818181818195,
+          "CM_Return": 1.1853293183781493,
+          "AV_Return": 0.0015596438399712491
+        },
+        {
+          "RelativeDate": 422,
+          "Date": "2015-02-27",
+          "Return": 0,
+          "CM_Return": 1.1474106580910672,
+          "AV_Return": 0.001509750865909299
+        },
+        {
+          "RelativeDate": 423,
+          "Date": "2015-02-28",
+          "Return": 0,
+          "CM_Return": 1.064636608874065,
+          "AV_Return": 0.0014008376432553488
+        },
+        {
+          "RelativeDate": 424,
+          "Date": "2015-03-01",
+          "Return": 0.017857142857142672,
+          "CM_Return": 1.0890268527765041,
+          "AV_Return": 0.0014329300694427686
+        },
+        {
+          "RelativeDate": 425,
+          "Date": "2015-03-02",
+          "Return": 0,
+          "CM_Return": 1.0711697099193618,
+          "AV_Return": 0.0014094338288412655
+        },
+        {
+          "RelativeDate": 426,
+          "Date": "2015-03-03",
+          "Return": 0.052631578947368474,
+          "CM_Return": 1.0711697099193618,
+          "AV_Return": 0.0014094338288412655
+        },
+        {
+          "RelativeDate": 427,
+          "Date": "2015-03-04",
+          "Return": 0.05416666666666663,
+          "CM_Return": 1.0185381309719932,
+          "AV_Return": 0.0013401817512789383
+        },
+        {
+          "RelativeDate": 428,
+          "Date": "2015-03-05",
+          "Return": 0.06719367588932822,
+          "CM_Return": 0.9667524166862789,
+          "AV_Return": 0.0012720426535345775
+        },
+        {
+          "RelativeDate": 429,
+          "Date": "2015-03-06",
+          "Return": 0,
+          "CM_Return": 0.9613164605119153,
+          "AV_Return": 0.0012648900796209412
+        },
+        {
+          "RelativeDate": 430,
+          "Date": "2015-03-07",
+          "Return": 0,
+          "CM_Return": 0.9948735074917812,
+          "AV_Return": 0.0013090440888049752
+        },
+        {
+          "RelativeDate": 431,
+          "Date": "2015-03-08",
+          "Return": -0.03703703703703707,
+          "CM_Return": 0.9472544598727336,
+          "AV_Return": 0.0012463874472009653
+        },
+        {
+          "RelativeDate": 432,
+          "Date": "2015-03-09",
+          "Return": 0.06538461538461536,
+          "CM_Return": 0.9842914969097708,
+          "AV_Return": 0.001295120390670751
+        },
+        {
+          "RelativeDate": 433,
+          "Date": "2015-03-10",
+          "Return": 0.010830324909747223,
+          "CM_Return": 0.9189068815251547,
+          "AV_Return": 0.0012090880020067824
+        },
+        {
+          "RelativeDate": 434,
+          "Date": "2015-03-11",
+          "Return": 0.03571428571428575,
+          "CM_Return": 0.9080765566154076,
+          "AV_Return": 0.0011948375744939574
+        },
+        {
+          "RelativeDate": 435,
+          "Date": "2015-03-12",
+          "Return": -0.013793103448275874,
+          "CM_Return": 0.8882713618102124,
+          "AV_Return": 0.0011687781076450163
+        },
+        {
+          "RelativeDate": 436,
+          "Date": "2015-03-13",
+          "Return": 0,
+          "CM_Return": 0.8886416464665425,
+          "AV_Return": 0.0011692653242980824
+        },
+        {
+          "RelativeDate": 437,
+          "Date": "2015-03-14",
+          "Return": 0,
+          "CM_Return": 0.8977119412511231,
+          "AV_Return": 0.0011811999226988461
+        },
+        {
+          "RelativeDate": 438,
+          "Date": "2015-03-15",
+          "Return": -0.020979020979020997,
+          "CM_Return": 0.9067007052960669,
+          "AV_Return": 0.0011930272438106144
+        },
+        {
+          "RelativeDate": 439,
+          "Date": "2015-03-16",
+          "Return": 0.00714285714285715,
+          "CM_Return": 0.9276797262750878,
+          "AV_Return": 0.0012206312187830102
+        },
+        {
+          "RelativeDate": 440,
+          "Date": "2015-03-17",
+          "Return": 0.024822695035461095,
+          "CM_Return": 0.9205368691322307,
+          "AV_Return": 0.0012112327225424087
+        },
+        {
+          "RelativeDate": 441,
+          "Date": "2015-03-18",
+          "Return": -0.013840830449827002,
+          "CM_Return": 0.8957141740967691,
+          "AV_Return": 0.001178571281706275
+        },
+        {
+          "RelativeDate": 442,
+          "Date": "2015-03-19",
+          "Return": 0,
+          "CM_Return": 0.9095550045465963,
+          "AV_Return": 0.0011967829007192058
+        },
+        {
+          "RelativeDate": 443,
+          "Date": "2015-03-20",
+          "Return": 0,
+          "CM_Return": 0.9051006615621864,
+          "AV_Return": 0.00119092192310814
+        },
+        {
+          "RelativeDate": 444,
+          "Date": "2015-03-21",
+          "Return": 0,
+          "CM_Return": 0.8983892521662133,
+          "AV_Return": 0.0011820911212713334
+        },
+        {
+          "RelativeDate": 445,
+          "Date": "2015-03-22",
+          "Return": 0.0035087719298244864,
+          "CM_Return": 0.9006415044184656,
+          "AV_Return": 0.0011850546110769285
+        },
+        {
+          "RelativeDate": 446,
+          "Date": "2015-03-23",
+          "Return": -0.020979020979020997,
+          "CM_Return": 0.9016271145111128,
+          "AV_Return": 0.0011863514664619905
+        },
+        {
+          "RelativeDate": 447,
+          "Date": "2015-03-24",
+          "Return": 0,
+          "CM_Return": 0.922606135490134,
+          "AV_Return": 0.001213955441434387
+        },
+        {
+          "RelativeDate": 448,
+          "Date": "2015-03-25",
+          "Return": 0,
+          "CM_Return": 0.922606135490134,
+          "AV_Return": 0.001213955441434387
+        },
+        {
+          "RelativeDate": 449,
+          "Date": "2015-03-26",
+          "Return": 0,
+          "CM_Return": 0.9606374554006486,
+          "AV_Return": 0.0012639966518429586
+        },
+        {
+          "RelativeDate": 450,
+          "Date": "2015-03-27",
+          "Return": 0,
+          "CM_Return": 0.9606374554006486,
+          "AV_Return": 0.0012639966518429586
+        },
+        {
+          "RelativeDate": 451,
+          "Date": "2015-03-28",
+          "Return": 0,
+          "CM_Return": 1.0123615933316832,
+          "AV_Return": 0.0013320547280680042
+        },
+        {
+          "RelativeDate": 452,
+          "Date": "2015-03-29",
+          "Return": -0.0142857142857143,
+          "CM_Return": 1.0471976589054537,
+          "AV_Return": 0.0013778916564545444
+        },
+        {
+          "RelativeDate": 453,
+          "Date": "2015-03-30",
+          "Return": -0.02173913043478247,
+          "CM_Return": 1.0793051553693858,
+          "AV_Return": 0.001420138362328139
+        },
+        {
+          "RelativeDate": 454,
+          "Date": "2015-03-31",
+          "Return": -0.055555555555555684,
+          "CM_Return": 1.1010442858041685,
+          "AV_Return": 0.0014487424813212743
+        },
+        {
+          "RelativeDate": 455,
+          "Date": "2015-04-01",
+          "Return": 0.015686274509803935,
+          "CM_Return": 1.1565998413597238,
+          "AV_Return": 0.0015218418965259523
+        },
+        {
+          "RelativeDate": 456,
+          "Date": "2015-04-02",
+          "Return": 0,
+          "CM_Return": 1.1914972244374689,
+          "AV_Return": 0.001567759505838775
+        },
+        {
+          "RelativeDate": 457,
+          "Date": "2015-04-03",
+          "Return": 0,
+          "CM_Return": 1.3100157429559873,
+          "AV_Return": 0.0017237049249420886
+        },
+        {
+          "RelativeDate": 458,
+          "Date": "2015-04-04",
+          "Return": 0,
+          "CM_Return": 1.2620024979228748,
+          "AV_Return": 0.0016605296025300983
+        },
+        {
+          "RelativeDate": 459,
+          "Date": "2015-04-05",
+          "Return": 0,
+          "CM_Return": 1.26548075879244,
+          "AV_Return": 0.001665106261569
+        },
+        {
+          "RelativeDate": 460,
+          "Date": "2015-04-06",
+          "Return": 0,
+          "CM_Return": 1.2360180204908802,
+          "AV_Return": 0.001626339500645895
+        },
+        {
+          "RelativeDate": 461,
+          "Date": "2015-04-07",
+          "Return": 0.007722007722007729,
+          "CM_Return": 1.2360180204908802,
+          "AV_Return": 0.001626339500645895
+        },
+        {
+          "RelativeDate": 462,
+          "Date": "2015-04-08",
+          "Return": 0.03831417624521077,
+          "CM_Return": 1.2282960127688727,
+          "AV_Return": 0.0016161789641695693
+        },
+        {
+          "RelativeDate": 463,
+          "Date": "2015-04-09",
+          "Return": 0.014760147601476028,
+          "CM_Return": 1.2256961222379474,
+          "AV_Return": 0.0016127580555762467
+        },
+        {
+          "RelativeDate": 464,
+          "Date": "2015-04-10",
+          "Return": 0.007272727272727279,
+          "CM_Return": 1.2626601125675057,
+          "AV_Return": 0.0016613948849572443
+        },
+        {
+          "RelativeDate": 465,
+          "Date": "2015-04-11",
+          "Return": 0,
+          "CM_Return": 1.2422726311964176,
+          "AV_Return": 0.0016345692515742337
+        },
+        {
+          "RelativeDate": 466,
+          "Date": "2015-04-12",
+          "Return": 0,
+          "CM_Return": 1.2406115016283112,
+          "AV_Return": 0.0016323835547740937
+        },
+        {
+          "RelativeDate": 467,
+          "Date": "2015-04-13",
+          "Return": 0.021660649819494605,
+          "CM_Return": 1.2422753951391265,
+          "AV_Return": 0.001634572888340956
+        },
+        {
+          "RelativeDate": 468,
+          "Date": "2015-04-14",
+          "Return": 0.01060070671378085,
+          "CM_Return": 1.220614745319632,
+          "AV_Return": 0.0016060720333153054
+        },
+        {
+          "RelativeDate": 469,
+          "Date": "2015-04-15",
+          "Return": 0.08041958041958042,
+          "CM_Return": 1.210014038605851,
+          "AV_Return": 0.0015921237350076988
+        },
+        {
+          "RelativeDate": 470,
+          "Date": "2015-04-16",
+          "Return": -0.022653721682847846,
+          "CM_Return": 1.0830828302792952,
+          "AV_Return": 0.001425108987209599
+        },
+        {
+          "RelativeDate": 471,
+          "Date": "2015-04-17",
+          "Return": 0.05960264900662257,
+          "CM_Return": 1.0935414300109234,
+          "AV_Return": 0.0014388703026459518
+        },
+        {
+          "RelativeDate": 472,
+          "Date": "2015-04-18",
+          "Return": 0,
+          "CM_Return": 0.9792650596639124,
+          "AV_Return": 0.0012885066574525163
+        },
+        {
+          "RelativeDate": 473,
+          "Date": "2015-04-19",
+          "Return": 0,
+          "CM_Return": 0.9512799850370467,
+          "AV_Return": 0.0012516841908382192
+        },
+        {
+          "RelativeDate": 474,
+          "Date": "2015-04-20",
+          "Return": 0.04687499999999997,
+          "CM_Return": 1.0069421731368549,
+          "AV_Return": 0.0013249239120221774
+        },
+        {
+          "RelativeDate": 475,
+          "Date": "2015-04-21",
+          "Return": 0.03582089552238809,
+          "CM_Return": 0.9600671731368547,
+          "AV_Return": 0.0012632462804432298
+        },
+        {
+          "RelativeDate": 476,
+          "Date": "2015-04-22",
+          "Return": 0.008645533141210318,
+          "CM_Return": 0.9242462776144665,
+          "AV_Return": 0.0012161135231769297
+        },
+        {
+          "RelativeDate": 477,
+          "Date": "2015-04-23",
+          "Return": -0.040000000000000036,
+          "CM_Return": 0.9574189262914381,
+          "AV_Return": 0.0012597617451203132
+        },
+        {
+          "RelativeDate": 478,
+          "Date": "2015-04-24",
+          "Return": 0.03273809523809534,
+          "CM_Return": 0.9799669193106355,
+          "AV_Return": 0.0012894301569876783
+        },
+        {
+          "RelativeDate": 479,
+          "Date": "2015-04-25",
+          "Return": 0,
+          "CM_Return": 0.9472288240725399,
+          "AV_Return": 0.001246353715884921
+        },
+        {
+          "RelativeDate": 480,
+          "Date": "2015-04-26",
+          "Return": 0,
+          "CM_Return": 0.9472288240725399,
+          "AV_Return": 0.001246353715884921
+        },
+        {
+          "RelativeDate": 481,
+          "Date": "2015-04-27",
+          "Return": 0.014409221902017239,
+          "CM_Return": 0.9472288240725399,
+          "AV_Return": 0.001246353715884921
+        },
+        {
+          "RelativeDate": 482,
+          "Date": "2015-04-28",
+          "Return": -0.011363636363636374,
+          "CM_Return": 0.932819602170523,
+          "AV_Return": 0.001227394213382267
+        },
+        {
+          "RelativeDate": 483,
+          "Date": "2015-04-29",
+          "Return": -0.0028735632183907434,
+          "CM_Return": 0.9441832385341589,
+          "AV_Return": 0.0012423463664923142
+        },
+        {
+          "RelativeDate": 484,
+          "Date": "2015-04-30",
+          "Return": 0.0028818443804033964,
+          "CM_Return": 0.9470568017525496,
+          "AV_Return": 0.001246127370727039
+        },
+        {
+          "RelativeDate": 485,
+          "Date": "2015-05-01",
+          "Return": -0.011494252873563229,
+          "CM_Return": 0.9441749573721463,
+          "AV_Return": 0.0012423354702265083
+        },
+        {
+          "RelativeDate": 486,
+          "Date": "2015-05-02",
+          "Return": 0,
+          "CM_Return": 0.9556692102457096,
+          "AV_Return": 0.0012574594871654075
+        },
+        {
+          "RelativeDate": 487,
+          "Date": "2015-05-03",
+          "Return": 0,
+          "CM_Return": 0.9556692102457096,
+          "AV_Return": 0.0012574594871654075
+        },
+        {
+          "RelativeDate": 488,
+          "Date": "2015-05-04",
+          "Return": -0.011627906976744196,
+          "CM_Return": 0.9556692102457096,
+          "AV_Return": 0.0012574594871654075
+        },
+        {
+          "RelativeDate": 489,
+          "Date": "2015-05-05",
+          "Return": 0.0029411764705883033,
+          "CM_Return": 0.9672971172224538,
+          "AV_Return": 0.0012727593647663866
+        },
+        {
+          "RelativeDate": 490,
+          "Date": "2015-05-06",
+          "Return": 0.005865102639296193,
+          "CM_Return": 0.9643559407518656,
+          "AV_Return": 0.001268889395726139
+        },
+        {
+          "RelativeDate": 491,
+          "Date": "2015-05-07",
+          "Return": -0.008746355685131267,
+          "CM_Return": 0.9584908381125694,
+          "AV_Return": 0.0012611721554112755
+        },
+        {
+          "RelativeDate": 492,
+          "Date": "2015-05-08",
+          "Return": 0.005882352941176476,
+          "CM_Return": 0.9672371937977005,
+          "AV_Return": 0.001272680518154869
+        },
+        {
+          "RelativeDate": 493,
+          "Date": "2015-05-09",
+          "Return": 0,
+          "CM_Return": 0.961354840856524,
+          "AV_Return": 0.0012649405800743737
+        },
+        {
+          "RelativeDate": 494,
+          "Date": "2015-05-10",
+          "Return": 0,
+          "CM_Return": 0.961354840856524,
+          "AV_Return": 0.0012649405800743737
+        },
+        {
+          "RelativeDate": 495,
+          "Date": "2015-05-11",
+          "Return": 0.04970760233918127,
+          "CM_Return": 0.961354840856524,
+          "AV_Return": 0.0012649405800743737
+        },
+        {
+          "RelativeDate": 496,
+          "Date": "2015-05-12",
+          "Return": 0.016713091922005586,
+          "CM_Return": 0.911647238517343,
+          "AV_Return": 0.0011995358401543986
+        },
+        {
+          "RelativeDate": 497,
+          "Date": "2015-05-13",
+          "Return": 0.005479452054794526,
+          "CM_Return": 0.8949341465953372,
+          "AV_Return": 0.001177544929730707
+        },
+        {
+          "RelativeDate": 498,
+          "Date": "2015-05-14",
+          "Return": 0,
+          "CM_Return": 0.8894546945405429,
+          "AV_Return": 0.0011703351243954512
+        },
+        {
+          "RelativeDate": 499,
+          "Date": "2015-05-15",
+          "Return": -0.021798365122615824,
+          "CM_Return": 0.8894546945405429,
+          "AV_Return": 0.0011703351243954512
+        },
+        {
+          "RelativeDate": 500,
+          "Date": "2015-05-16",
+          "Return": 0,
+          "CM_Return": 0.9112530596631586,
+          "AV_Return": 0.001199017183767314
+        },
+        {
+          "RelativeDate": 501,
+          "Date": "2015-05-17",
+          "Return": 0,
+          "CM_Return": 0.9112530596631586,
+          "AV_Return": 0.001199017183767314
+        },
+        {
+          "RelativeDate": 502,
+          "Date": "2015-05-18",
+          "Return": -0.025069637883008318,
+          "CM_Return": 0.9112530596631586,
+          "AV_Return": 0.001199017183767314
+        },
+        {
+          "RelativeDate": 503,
+          "Date": "2015-05-19",
+          "Return": 0.011428571428571439,
+          "CM_Return": 0.936322697546167,
+          "AV_Return": 0.0012320035494028513
+        },
+        {
+          "RelativeDate": 504,
+          "Date": "2015-05-20",
+          "Return": 0.01977401129943498,
+          "CM_Return": 0.9248941261175955,
+          "AV_Return": 0.0012169659554178889
+        },
+        {
+          "RelativeDate": 505,
+          "Date": "2015-05-21",
+          "Return": -0.016620498614958464,
+          "CM_Return": 0.9051201148181608,
+          "AV_Return": 0.00119094751949758
+        },
+        {
+          "RelativeDate": 506,
+          "Date": "2015-05-22",
+          "Return": -0.0028169014084506445,
+          "CM_Return": 0.9217406134331191,
+          "AV_Return": 0.001212816596622525
+        },
+        {
+          "RelativeDate": 507,
+          "Date": "2015-05-23",
+          "Return": 0,
+          "CM_Return": 0.9245575148415698,
+          "AV_Return": 0.0012165230458441709
+        },
+        {
+          "RelativeDate": 508,
+          "Date": "2015-05-24",
+          "Return": 0,
+          "CM_Return": 0.9245575148415698,
+          "AV_Return": 0.0012165230458441709
+        },
+        {
+          "RelativeDate": 509,
+          "Date": "2015-05-25",
+          "Return": -0.028248587570621493,
+          "CM_Return": 0.9245575148415698,
+          "AV_Return": 0.0012165230458441709
+        },
+        {
+          "RelativeDate": 510,
+          "Date": "2015-05-26",
+          "Return": 0.0029069767441861137,
+          "CM_Return": 0.952806102412191,
+          "AV_Return": 0.0012536922400160407
+        },
+        {
+          "RelativeDate": 511,
+          "Date": "2015-05-27",
+          "Return": 0.008695652173912986,
+          "CM_Return": 0.9498991256680047,
+          "AV_Return": 0.0012498672706157956
+        },
+        {
+          "RelativeDate": 512,
+          "Date": "2015-05-28",
+          "Return": 0,
+          "CM_Return": 0.9412034734940917,
+          "AV_Return": 0.0012384256230185417
+        },
+        {
+          "RelativeDate": 513,
+          "Date": "2015-05-29",
+          "Return": -0.011494252873563229,
+          "CM_Return": 0.9412034734940917,
+          "AV_Return": 0.0012384256230185417
+        },
+        {
+          "RelativeDate": 514,
+          "Date": "2015-05-30",
+          "Return": 0,
+          "CM_Return": 0.952697726367655,
+          "AV_Return": 0.0012535496399574408
+        },
+        {
+          "RelativeDate": 515,
+          "Date": "2015-05-31",
+          "Return": 0,
+          "CM_Return": 0.952697726367655,
+          "AV_Return": 0.0012535496399574408
+        },
+        {
+          "RelativeDate": 516,
+          "Date": "2015-06-01",
+          "Return": 0.0029069767441861137,
+          "CM_Return": 0.952697726367655,
+          "AV_Return": 0.0012535496399574408
+        },
+        {
+          "RelativeDate": 517,
+          "Date": "2015-06-02",
+          "Return": 0.005797101449275368,
+          "CM_Return": 0.9497907496234688,
+          "AV_Return": 0.0012497246705571957
+        },
+        {
+          "RelativeDate": 518,
+          "Date": "2015-06-03",
+          "Return": -0.005763688760806921,
+          "CM_Return": 0.9439936481741937,
+          "AV_Return": 0.0012420969054923602
+        },
+        {
+          "RelativeDate": 519,
+          "Date": "2015-06-04",
+          "Return": -0.008695652173913115,
+          "CM_Return": 0.9497573369350003,
+          "AV_Return": 0.0012496807064934215
+        },
+        {
+          "RelativeDate": 520,
+          "Date": "2015-06-05",
+          "Return": 0.07894736842105264,
+          "CM_Return": 0.9584529891089137,
+          "AV_Return": 0.001261122354090676
+        },
+        {
+          "RelativeDate": 521,
+          "Date": "2015-06-06",
+          "Return": 0,
+          "CM_Return": 0.8795056206878614,
+          "AV_Return": 0.001157244237747186
+        },
+        {
+          "RelativeDate": 522,
+          "Date": "2015-06-07",
+          "Return": 0,
+          "CM_Return": 0.8795056206878614,
+          "AV_Return": 0.001157244237747186
+        },
+        {
+          "RelativeDate": 523,
+          "Date": "2015-06-08",
+          "Return": 0,
+          "CM_Return": 0.8795056206878614,
+          "AV_Return": 0.001157244237747186
+        },
+        {
+          "RelativeDate": 524,
+          "Date": "2015-06-09",
+          "Return": 0.043360433604336085,
+          "CM_Return": 0.8795056206878614,
+          "AV_Return": 0.001157244237747186
+        },
+        {
+          "RelativeDate": 525,
+          "Date": "2015-06-10",
+          "Return": 0.10649350649350642,
+          "CM_Return": 0.8361451870835249,
+          "AV_Return": 0.001100191035636217
+        },
+        {
+          "RelativeDate": 526,
+          "Date": "2015-06-11",
+          "Return": 0.00704225352112682,
+          "CM_Return": 0.7296516805900181,
+          "AV_Return": 0.0009600680007763395
+        },
+        {
+          "RelativeDate": 527,
+          "Date": "2015-06-12",
+          "Return": -0.013986013986013894,
+          "CM_Return": 0.7226094270688918,
+          "AV_Return": 0.000950801877722226
+        },
+        {
+          "RelativeDate": 528,
+          "Date": "2015-06-13",
+          "Return": 0,
+          "CM_Return": 0.7365954410549053,
+          "AV_Return": 0.0009692045277038227
+        },
+        {
+          "RelativeDate": 529,
+          "Date": "2015-06-14",
+          "Return": 0,
+          "CM_Return": 0.7365954410549053,
+          "AV_Return": 0.0009692045277038227
+        },
+        {
+          "RelativeDate": 530,
+          "Date": "2015-06-15",
+          "Return": -0.014184397163120683,
+          "CM_Return": 0.7365954410549053,
+          "AV_Return": 0.0009692045277038227
+        },
+        {
+          "RelativeDate": 531,
+          "Date": "2015-06-16",
+          "Return": 0,
+          "CM_Return": 0.7507798382180265,
+          "AV_Return": 0.000987868208181614
+        },
+        {
+          "RelativeDate": 532,
+          "Date": "2015-06-17",
+          "Return": 0.014388489208633212,
+          "CM_Return": 0.7507798382180265,
+          "AV_Return": 0.000987868208181614
+        },
+        {
+          "RelativeDate": 533,
+          "Date": "2015-06-18",
+          "Return": -0.018912529550827437,
+          "CM_Return": 0.7363913490093926,
+          "AV_Return": 0.0009689359855386745
+        },
+        {
+          "RelativeDate": 534,
+          "Date": "2015-06-19",
+          "Return": 0,
+          "CM_Return": 0.7553038785602205,
+          "AV_Return": 0.0009938208928423954
+        },
+        {
+          "RelativeDate": 535,
+          "Date": "2015-06-20",
+          "Return": 0,
+          "CM_Return": 0.7553038785602205,
+          "AV_Return": 0.0009938208928423954
+        },
+        {
+          "RelativeDate": 536,
+          "Date": "2015-06-21",
+          "Return": 0,
+          "CM_Return": 0.7553038785602205,
+          "AV_Return": 0.0009938208928423954
+        },
+        {
+          "RelativeDate": 537,
+          "Date": "2015-06-22",
+          "Return": 0.012048192771084293,
+          "CM_Return": 0.7553038785602205,
+          "AV_Return": 0.0009938208928423954
+        },
+        {
+          "RelativeDate": 538,
+          "Date": "2015-06-23",
+          "Return": 0.009523809523809532,
+          "CM_Return": 0.743255685789136,
+          "AV_Return": 0.0009779680076172843
+        },
+        {
+          "RelativeDate": 539,
+          "Date": "2015-06-24",
+          "Return": 0.04952830188679244,
+          "CM_Return": 0.7337318762653265,
+          "AV_Return": 0.0009654366792964823
+        },
+        {
+          "RelativeDate": 540,
+          "Date": "2015-06-25",
+          "Return": -0.017977528089887656,
+          "CM_Return": 0.6842035743785341,
+          "AV_Return": 0.0009002678610243869
+        },
+        {
+          "RelativeDate": 541,
+          "Date": "2015-06-26",
+          "Return": 0.029748283752860386,
+          "CM_Return": 0.7021811024684216,
+          "AV_Return": 0.0009239225032479231
+        },
+        {
+          "RelativeDate": 542,
+          "Date": "2015-06-27",
+          "Return": 0,
+          "CM_Return": 0.6724328187155607,
+          "AV_Return": 0.0008847800246257378
+        },
+        {
+          "RelativeDate": 543,
+          "Date": "2015-06-28",
+          "Return": 0,
+          "CM_Return": 0.6724328187155607,
+          "AV_Return": 0.0008847800246257378
+        },
+        {
+          "RelativeDate": 544,
+          "Date": "2015-06-29",
+          "Return": -0.028888888888888867,
+          "CM_Return": 0.6724328187155607,
+          "AV_Return": 0.0008847800246257378
+        },
+        {
+          "RelativeDate": 545,
+          "Date": "2015-06-30",
+          "Return": 0,
+          "CM_Return": 0.7013217076044501,
+          "AV_Return": 0.0009227917205321712
+        },
+        {
+          "RelativeDate": 546,
+          "Date": "2015-07-01",
+          "Return": 0.002288329519450752,
+          "CM_Return": 0.7013217076044501,
+          "AV_Return": 0.0009227917205321712
+        },
+        {
+          "RelativeDate": 547,
+          "Date": "2015-07-02",
+          "Return": 0.05707762557077626,
+          "CM_Return": 0.6990333780849992,
+          "AV_Return": 0.0009197807606381569
+        },
+        {
+          "RelativeDate": 548,
+          "Date": "2015-07-03",
+          "Return": -0.004319654427645697,
+          "CM_Return": 0.6419557525142231,
+          "AV_Return": 0.000844678621729241
+        },
+        {
+          "RelativeDate": 549,
+          "Date": "2015-07-04",
+          "Return": 0,
+          "CM_Return": 0.6462754069418688,
+          "AV_Return": 0.0008503623775550905
+        },
+        {
+          "RelativeDate": 550,
+          "Date": "2015-07-05",
+          "Return": 0,
+          "CM_Return": 0.6462754069418688,
+          "AV_Return": 0.0008503623775550905
+        },
+        {
+          "RelativeDate": 551,
+          "Date": "2015-07-06",
+          "Return": 0.015184381778741733,
+          "CM_Return": 0.6462754069418688,
+          "AV_Return": 0.0008503623775550905
+        },
+        {
+          "RelativeDate": 552,
+          "Date": "2015-07-07",
+          "Return": 0.023504273504273573,
+          "CM_Return": 0.6310910251631272,
+          "AV_Return": 0.0008303829278462201
+        },
+        {
+          "RelativeDate": 553,
+          "Date": "2015-07-08",
+          "Return": -0.027139874739039643,
+          "CM_Return": 0.6075867516588537,
+          "AV_Return": 0.0007994562521827022
+        },
+        {
+          "RelativeDate": 554,
+          "Date": "2015-07-09",
+          "Return": -0.05579399141630897,
+          "CM_Return": 0.6347266263978932,
+          "AV_Return": 0.0008351666136814385
+        },
+        {
+          "RelativeDate": 555,
+          "Date": "2015-07-10",
+          "Return": 0.03409090909090897,
+          "CM_Return": 0.6905206178142022,
+          "AV_Return": 0.0009085797602818449
+        },
+        {
+          "RelativeDate": 556,
+          "Date": "2015-07-11",
+          "Return": 0,
+          "CM_Return": 0.6564297087232935,
+          "AV_Return": 0.000863723300951702
+        },
+        {
+          "RelativeDate": 557,
+          "Date": "2015-07-12",
+          "Return": 0,
+          "CM_Return": 0.6564297087232935,
+          "AV_Return": 0.000863723300951702
+        },
+        {
+          "RelativeDate": 558,
+          "Date": "2015-07-13",
+          "Return": 0.004395604395604497,
+          "CM_Return": 0.6564297087232935,
+          "AV_Return": 0.000863723300951702
+        },
+        {
+          "RelativeDate": 559,
+          "Date": "2015-07-14",
+          "Return": 0.03282275711159725,
+          "CM_Return": 0.6520341043276892,
+          "AV_Return": 0.0008579396109574857
+        },
+        {
+          "RelativeDate": 560,
+          "Date": "2015-07-15",
+          "Return": 0.012711864406779768,
+          "CM_Return": 0.6192113472160918,
+          "AV_Return": 0.0008147517726527524
+        },
+        {
+          "RelativeDate": 561,
+          "Date": "2015-07-16",
+          "Return": 0.004184100418409952,
+          "CM_Return": 0.6064994828093119,
+          "AV_Return": 0.0007980256352754104
+        },
+        {
+          "RelativeDate": 562,
+          "Date": "2015-07-17",
+          "Return": 0,
+          "CM_Return": 0.6023153823909014,
+          "AV_Return": 0.0007925202399880282
+        },
+        {
+          "RelativeDate": 563,
+          "Date": "2015-07-18",
+          "Return": 0,
+          "CM_Return": 0.6023153823909014,
+          "AV_Return": 0.0007925202399880282
+        },
+        {
+          "RelativeDate": 564,
+          "Date": "2015-07-19",
+          "Return": 0,
+          "CM_Return": 0.6023153823909014,
+          "AV_Return": 0.0007925202399880282
+        },
+        {
+          "RelativeDate": 565,
+          "Date": "2015-07-20",
+          "Return": 0.012500000000000105,
+          "CM_Return": 0.6023153823909014,
+          "AV_Return": 0.0007925202399880282
+        },
+        {
+          "RelativeDate": 566,
+          "Date": "2015-07-21",
+          "Return": 0.01851851851851849,
+          "CM_Return": 0.5898153823909008,
+          "AV_Return": 0.0007760728715669748
+        },
+        {
+          "RelativeDate": 567,
+          "Date": "2015-07-22",
+          "Return": 0.016161616161616175,
+          "CM_Return": 0.5712968638723831,
+          "AV_Return": 0.000751706399832083
+        },
+        {
+          "RelativeDate": 568,
+          "Date": "2015-07-23",
+          "Return": 0.03379721669980118,
+          "CM_Return": 0.555135247710767,
+          "AV_Return": 0.000730441115408904
+        },
+        {
+          "RelativeDate": 569,
+          "Date": "2015-07-24",
+          "Return": 0.028846153846153744,
+          "CM_Return": 0.5213380310109657,
+          "AV_Return": 0.0006859710934354811
+        },
+        {
+          "RelativeDate": 570,
+          "Date": "2015-07-25",
+          "Return": 0,
+          "CM_Return": 0.4924918771648113,
+          "AV_Return": 0.0006480156278484359
+        },
+        {
+          "RelativeDate": 571,
+          "Date": "2015-07-26",
+          "Return": 0,
+          "CM_Return": 0.4924918771648113,
+          "AV_Return": 0.0006480156278484359
+        },
+        {
+          "RelativeDate": 572,
+          "Date": "2015-07-27",
+          "Return": 0.014953271028037398,
+          "CM_Return": 0.4924918771648113,
+          "AV_Return": 0.0006480156278484359
+        },
+        {
+          "RelativeDate": 573,
+          "Date": "2015-07-28",
+          "Return": -0.06261510128913442,
+          "CM_Return": 0.47753860613677407,
+          "AV_Return": 0.0006283402712325975
+        },
+        {
+          "RelativeDate": 574,
+          "Date": "2015-07-29",
+          "Return": -0.07858546168958733,
+          "CM_Return": 0.5401537074259085,
+          "AV_Return": 0.0007107285624025112
+        },
+        {
+          "RelativeDate": 575,
+          "Date": "2015-07-30",
+          "Return": 0.01705756929637509,
+          "CM_Return": 0.6187391691154969,
+          "AV_Return": 0.0008141304856782854
+        },
+        {
+          "RelativeDate": 576,
+          "Date": "2015-07-31",
+          "Return": 0.02515723270440254,
+          "CM_Return": 0.6016815998191211,
+          "AV_Return": 0.000791686315551475
+        },
+        {
+          "RelativeDate": 577,
+          "Date": "2015-08-01",
+          "Return": 0,
+          "CM_Return": 0.5765243671147181,
+          "AV_Return": 0.0007585846935719976
+        },
+        {
+          "RelativeDate": 578,
+          "Date": "2015-08-02",
+          "Return": 0,
+          "CM_Return": 0.5765243671147181,
+          "AV_Return": 0.0007585846935719976
+        },
+        {
+          "RelativeDate": 579,
+          "Date": "2015-08-03",
+          "Return": 0.05316973415132938,
+          "CM_Return": 0.5765243671147181,
+          "AV_Return": 0.0007585846935719976
+        },
+        {
+          "RelativeDate": 580,
+          "Date": "2015-08-04",
+          "Return": 0.01359223300970862,
+          "CM_Return": 0.5233546329633894,
+          "AV_Return": 0.0006886245170570912
+        },
+        {
+          "RelativeDate": 581,
+          "Date": "2015-08-05",
+          "Return": -0.021072796934865794,
+          "CM_Return": 0.5097623999536802,
+          "AV_Return": 0.000670739999939053
+        },
+        {
+          "RelativeDate": 582,
+          "Date": "2015-08-06",
+          "Return": -0.011741682974559783,
+          "CM_Return": 0.5308351968885469,
+          "AV_Return": 0.0006984673643270354
+        },
+        {
+          "RelativeDate": 583,
+          "Date": "2015-08-07",
+          "Return": -0.015841584158415856,
+          "CM_Return": 0.5425768798631064,
+          "AV_Return": 0.0007139169471882979
+        },
+        {
+          "RelativeDate": 584,
+          "Date": "2015-08-08",
+          "Return": 0,
+          "CM_Return": 0.5584184640215223,
+          "AV_Return": 0.0007347611368704241
+        },
+        {
+          "RelativeDate": 585,
+          "Date": "2015-08-09",
+          "Return": 0,
+          "CM_Return": 0.5584184640215223,
+          "AV_Return": 0.0007347611368704241
+        },
+        {
+          "RelativeDate": 586,
+          "Date": "2015-08-10",
+          "Return": -0.030181086519114584,
+          "CM_Return": 0.5584184640215223,
+          "AV_Return": 0.0007347611368704241
+        },
+        {
+          "RelativeDate": 587,
+          "Date": "2015-08-11",
+          "Return": 0.0456431535269709,
+          "CM_Return": 0.588599550540636,
+          "AV_Return": 0.0007744730928166263
+        },
+        {
+          "RelativeDate": 588,
+          "Date": "2015-08-12",
+          "Return": -0.015873015873015886,
+          "CM_Return": 0.5429563970136663,
+          "AV_Return": 0.0007144163118600872
+        },
+        {
+          "RelativeDate": 589,
+          "Date": "2015-08-13",
+          "Return": -0.012096774193548309,
+          "CM_Return": 0.5588294128866816,
+          "AV_Return": 0.0007353018590614232
+        },
+        {
+          "RelativeDate": 590,
+          "Date": "2015-08-14",
+          "Return": 0.0020408163265305686,
+          "CM_Return": 0.5709261870802299,
+          "AV_Return": 0.0007512186672108288
+        },
+        {
+          "RelativeDate": 591,
+          "Date": "2015-08-15",
+          "Return": 0,
+          "CM_Return": 0.5688853707536993,
+          "AV_Return": 0.0007485333825706569
+        },
+        {
+          "RelativeDate": 592,
+          "Date": "2015-08-16",
+          "Return": 0,
+          "CM_Return": 0.5688853707536993,
+          "AV_Return": 0.0007485333825706569
+        },
+        {
+          "RelativeDate": 593,
+          "Date": "2015-08-17",
+          "Return": -0.0020366598778003638,
+          "CM_Return": 0.5688853707536993,
+          "AV_Return": 0.0007485333825706569
+        },
+        {
+          "RelativeDate": 594,
+          "Date": "2015-08-18",
+          "Return": -0.053061224489796055,
+          "CM_Return": 0.5709220306314998,
+          "AV_Return": 0.0007512131981993418
+        },
+        {
+          "RelativeDate": 595,
+          "Date": "2015-08-19",
+          "Return": -0.02155172413793096,
+          "CM_Return": 0.6239832551212956,
+          "AV_Return": 0.00082103059884381
+        },
+        {
+          "RelativeDate": 596,
+          "Date": "2015-08-20",
+          "Return": 0.015418502202643234,
+          "CM_Return": 0.6455349792592266,
+          "AV_Return": 0.0008493881306042456
+        },
+        {
+          "RelativeDate": 597,
+          "Date": "2015-08-21",
+          "Return": 0.06724511930585675,
+          "CM_Return": 0.6301164770565837,
+          "AV_Return": 0.0008291006277060312
+        },
+        {
+          "RelativeDate": 598,
+          "Date": "2015-08-22",
+          "Return": 0,
+          "CM_Return": 0.5628713577507268,
+          "AV_Return": 0.0007406202075667458
+        },
+        {
+          "RelativeDate": 599,
+          "Date": "2015-08-23",
+          "Return": 0,
+          "CM_Return": 0.5628713577507268,
+          "AV_Return": 0.0007406202075667458
+        },
+        {
+          "RelativeDate": 600,
+          "Date": "2015-08-24",
+          "Return": -0.002032520325203209,
+          "CM_Return": 0.5628713577507268,
+          "AV_Return": 0.0007406202075667458
+        },
+        {
+          "RelativeDate": 601,
+          "Date": "2015-08-25",
+          "Return": 0.05906313645621182,
+          "CM_Return": 0.56490387807593,
+          "AV_Return": 0.0007432945764156974
+        },
+        {
+          "RelativeDate": 602,
+          "Date": "2015-08-26",
+          "Return": 0.05576923076923077,
+          "CM_Return": 0.5058407416197177,
+          "AV_Return": 0.0006655799231838391
+        },
+        {
+          "RelativeDate": 603,
+          "Date": "2015-08-27",
+          "Return": 0.043715846994535554,
+          "CM_Return": 0.4500715108504872,
+          "AV_Return": 0.00059219935638222
+        },
+        {
+          "RelativeDate": 604,
+          "Date": "2015-08-28",
+          "Return": 0.020942408376963213,
+          "CM_Return": 0.40635566385595207,
+          "AV_Return": 0.0005346785050736212
+        },
+        {
+          "RelativeDate": 605,
+          "Date": "2015-08-29",
+          "Return": 0,
+          "CM_Return": 0.3854132554789887,
+          "AV_Return": 0.0005071227045776167
+        },
+        {
+          "RelativeDate": 606,
+          "Date": "2015-08-30",
+          "Return": 0,
+          "CM_Return": 0.3854132554789887,
+          "AV_Return": 0.0005071227045776167
+        },
+        {
+          "RelativeDate": 607,
+          "Date": "2015-08-31",
+          "Return": -0.056410256410256425,
+          "CM_Return": 0.3854132554789887,
+          "AV_Return": 0.0005071227045776167
+        },
+        {
+          "RelativeDate": 608,
+          "Date": "2015-09-01",
+          "Return": 0.07427536231884062,
+          "CM_Return": 0.4418235118892449,
+          "AV_Return": 0.000581346726170059
+        },
+        {
+          "RelativeDate": 609,
+          "Date": "2015-09-02",
+          "Return": 0.018549747048903935,
+          "CM_Return": 0.36754814957040455,
+          "AV_Return": 0.00048361598627684807
+        },
+        {
+          "RelativeDate": 610,
+          "Date": "2015-09-03",
+          "Return": -0.00827814569536421,
+          "CM_Return": 0.3489984025215008,
+          "AV_Return": 0.00045920842437039577
+        },
+        {
+          "RelativeDate": 611,
+          "Date": "2015-09-04",
+          "Return": 0.008347245409014995,
+          "CM_Return": 0.357276548216865,
+          "AV_Return": 0.0004701007213379803
+        },
+        {
+          "RelativeDate": 612,
+          "Date": "2015-09-05",
+          "Return": 0,
+          "CM_Return": 0.34892930280785,
+          "AV_Return": 0.00045911750369453946
+        },
+        {
+          "RelativeDate": 613,
+          "Date": "2015-09-06",
+          "Return": 0,
+          "CM_Return": 0.34892930280785,
+          "AV_Return": 0.00045911750369453946
+        },
+        {
+          "RelativeDate": 614,
+          "Date": "2015-09-07",
+          "Return": 0.024834437086092773,
+          "CM_Return": 0.34892930280785,
+          "AV_Return": 0.00045911750369453946
+        },
+        {
+          "RelativeDate": 615,
+          "Date": "2015-09-08",
+          "Return": 0.035541195476575076,
+          "CM_Return": 0.3240948657217571,
+          "AV_Return": 0.0004264406127917857
+        },
+        {
+          "RelativeDate": 616,
+          "Date": "2015-09-09",
+          "Return": 0.078003120124805,
+          "CM_Return": 0.288553670245182,
+          "AV_Return": 0.0003796758819015553
+        },
+        {
+          "RelativeDate": 617,
+          "Date": "2015-09-10",
+          "Return": -0.005788712011577429,
+          "CM_Return": 0.21055055012037693,
+          "AV_Return": 0.00027704019752681174
+        },
+        {
+          "RelativeDate": 618,
+          "Date": "2015-09-11",
+          "Return": 0.06404657933042206,
+          "CM_Return": 0.2163392621319543,
+          "AV_Return": 0.00028465692385783463
+        },
+        {
+          "RelativeDate": 619,
+          "Date": "2015-09-12",
+          "Return": 0,
+          "CM_Return": 0.1522926828015319,
+          "AV_Return": 0.0002003851089493841
+        },
+        {
+          "RelativeDate": 620,
+          "Date": "2015-09-13",
+          "Return": 0,
+          "CM_Return": 0.1522926828015319,
+          "AV_Return": 0.0002003851089493841
+        },
+        {
+          "RelativeDate": 621,
+          "Date": "2015-09-14",
+          "Return": 0.07387140902872778,
+          "CM_Return": 0.1522926828015319,
+          "AV_Return": 0.0002003851089493841
+        },
+        {
+          "RelativeDate": 622,
+          "Date": "2015-09-15",
+          "Return": -0.01783439490445856,
+          "CM_Return": 0.07842127377280417,
+          "AV_Return": 0.00010318588654316338
+        },
+        {
+          "RelativeDate": 623,
+          "Date": "2015-09-16",
+          "Return": 0.009079118028534408,
+          "CM_Return": 0.09625566867726265,
+          "AV_Return": 0.00012665219562797716
+        },
+        {
+          "RelativeDate": 624,
+          "Date": "2015-09-17",
+          "Return": -0.05269922879177379,
+          "CM_Return": 0.08717655064872809,
+          "AV_Return": 0.00011470598769569485
+        },
+        {
+          "RelativeDate": 625,
+          "Date": "2015-09-18",
+          "Return": 0.02985074626865668,
+          "CM_Return": 0.1398757794405015,
+          "AV_Return": 0.00018404707821118618
+        },
+        {
+          "RelativeDate": 626,
+          "Date": "2015-09-19",
+          "Return": 0,
+          "CM_Return": 0.11002503317184531,
+          "AV_Return": 0.00014476978048927013
+        },
+        {
+          "RelativeDate": 627,
+          "Date": "2015-09-20",
+          "Return": 0,
+          "CM_Return": 0.11002503317184531,
+          "AV_Return": 0.00014476978048927013
+        },
+        {
+          "RelativeDate": 628,
+          "Date": "2015-09-21",
+          "Return": 0.007905138339921014,
+          "CM_Return": 0.11002503317184531,
+          "AV_Return": 0.00014476978048927013
+        },
+        {
+          "RelativeDate": 629,
+          "Date": "2015-09-22",
+          "Return": 0.014379084967320186,
+          "CM_Return": 0.10211989483192419,
+          "AV_Return": 0.00013436828267358446
+        },
+        {
+          "RelativeDate": 630,
+          "Date": "2015-09-23",
+          "Return": 0.021907216494845352,
+          "CM_Return": 0.08774080986460397,
+          "AV_Return": 0.00011544843403237365
+        },
+        {
+          "RelativeDate": 631,
+          "Date": "2015-09-24",
+          "Return": 0.008827238335435092,
+          "CM_Return": 0.06583359336975914,
+          "AV_Return": 0.0000866231491707357
+        },
+        {
+          "RelativeDate": 632,
+          "Date": "2015-09-25",
+          "Return": 0,
+          "CM_Return": 0.05700635503432413,
+          "AV_Return": 0.00007500836188726859
+        },
+        {
+          "RelativeDate": 633,
+          "Date": "2015-09-26",
+          "Return": 0,
+          "CM_Return": 0.05700635503432413,
+          "AV_Return": 0.00007500836188726859
+        },
+        {
+          "RelativeDate": 634,
+          "Date": "2015-09-27",
+          "Return": 0,
+          "CM_Return": 0.05700635503432413,
+          "AV_Return": 0.00007500836188726859
+        },
+        {
+          "RelativeDate": 635,
+          "Date": "2015-09-28",
+          "Return": -0.003750000000000031,
+          "CM_Return": 0.05700635503432413,
+          "AV_Return": 0.00007500836188726859
+        },
+        {
+          "RelativeDate": 636,
+          "Date": "2015-09-29",
+          "Return": -0.007528230865746501,
+          "CM_Return": 0.06075635503432394,
+          "AV_Return": 0.00007994257241358413
+        },
+        {
+          "RelativeDate": 637,
+          "Date": "2015-09-30",
+          "Return": -0.006321112515802758,
+          "CM_Return": 0.06828458590007047,
+          "AV_Return": 0.00008984813934219799
+        },
+        {
+          "RelativeDate": 638,
+          "Date": "2015-10-01",
+          "Return": -0.0012722646310433427,
+          "CM_Return": 0.07460569841587328,
+          "AV_Return": 0.00009816539265246484
+        },
+        {
+          "RelativeDate": 639,
+          "Date": "2015-10-02",
+          "Return": -0.019108280254777003,
+          "CM_Return": 0.07587796304691652,
+          "AV_Return": 0.00009983942506173226
+        },
+        {
+          "RelativeDate": 640,
+          "Date": "2015-10-03",
+          "Return": 0,
+          "CM_Return": 0.09498624330169347,
+          "AV_Return": 0.0001249818990811756
+        },
+        {
+          "RelativeDate": 641,
+          "Date": "2015-10-04",
+          "Return": 0.005194805194805199,
+          "CM_Return": 0.09498624330169347,
+          "AV_Return": 0.0001249818990811756
+        },
+        {
+          "RelativeDate": 642,
+          "Date": "2015-10-05",
+          "Return": -0.002583979328165434,
+          "CM_Return": 0.08979143810688806,
+          "AV_Return": 0.0001181466290880106
+        },
+        {
+          "RelativeDate": 643,
+          "Date": "2015-10-06",
+          "Return": -0.032383419689119175,
+          "CM_Return": 0.09237541743505373,
+          "AV_Return": 0.0001215466018882286
+        },
+        {
+          "RelativeDate": 644,
+          "Date": "2015-10-07",
+          "Return": -0.02141900937081662,
+          "CM_Return": 0.12475883712417235,
+          "AV_Return": 0.00016415636463706888
+        },
+        {
+          "RelativeDate": 645,
+          "Date": "2015-10-08",
+          "Return": -0.017783857729138153,
+          "CM_Return": 0.14617784649498905,
+          "AV_Return": 0.00019233927170393296
+        },
+        {
+          "RelativeDate": 646,
+          "Date": "2015-10-09",
+          "Return": 0,
+          "CM_Return": 0.1639617042241276,
+          "AV_Return": 0.00021573908450543103
+        },
+        {
+          "RelativeDate": 647,
+          "Date": "2015-10-10",
+          "Return": 0,
+          "CM_Return": 0.1639617042241276,
+          "AV_Return": 0.00021573908450543103
+        },
+        {
+          "RelativeDate": 648,
+          "Date": "2015-10-11",
+          "Return": -0.06685236768802222,
+          "CM_Return": 0.1639617042241276,
+          "AV_Return": 0.00021573908450543103
+        },
+        {
+          "RelativeDate": 649,
+          "Date": "2015-10-12",
+          "Return": 0.08507462686567155,
+          "CM_Return": 0.23081407191215042,
+          "AV_Return": 0.00030370272620019794
+        },
+        {
+          "RelativeDate": 650,
+          "Date": "2015-10-13",
+          "Return": -0.019257221458046724,
+          "CM_Return": 0.1457394450464778,
+          "AV_Return": 0.00019176242769273393
+        },
+        {
+          "RelativeDate": 651,
+          "Date": "2015-10-14",
+          "Return": 0.04207573632538567,
+          "CM_Return": 0.16499666650452494,
+          "AV_Return": 0.00021710087697963807
+        },
+        {
+          "RelativeDate": 652,
+          "Date": "2015-10-15",
+          "Return": 0.03095558546433384,
+          "CM_Return": 0.12292093017913897,
+          "AV_Return": 0.00016173806602518285
+        },
+        {
+          "RelativeDate": 653,
+          "Date": "2015-10-16",
+          "Return": 0,
+          "CM_Return": 0.09196534471480544,
+          "AV_Return": 0.00012100703251948084
+        },
+        {
+          "RelativeDate": 654,
+          "Date": "2015-10-17",
+          "Return": 0,
+          "CM_Return": 0.09196534471480544,
+          "AV_Return": 0.00012100703251948084
+        },
+        {
+          "RelativeDate": 655,
+          "Date": "2015-10-18",
+          "Return": 0.04177545691906009,
+          "CM_Return": 0.09196534471480544,
+          "AV_Return": 0.00012100703251948084
+        },
+        {
+          "RelativeDate": 656,
+          "Date": "2015-10-19",
+          "Return": -0.038847117794486276,
+          "CM_Return": 0.05018988779574548,
+          "AV_Return": 0.00006603932604703352
+        },
+        {
+          "RelativeDate": 657,
+          "Date": "2015-10-20",
+          "Return": 0.005215123859191661,
+          "CM_Return": 0.08903700559023142,
+          "AV_Return": 0.00011715395472398872
+        },
+        {
+          "RelativeDate": 658,
+          "Date": "2015-10-21",
+          "Return": -0.0012970168612191683,
+          "CM_Return": 0.08382188173103977,
+          "AV_Return": 0.00011029194964610496
+        },
+        {
+          "RelativeDate": 659,
+          "Date": "2015-10-22",
+          "Return": 0.03896103896103894,
+          "CM_Return": 0.08511889859225907,
+          "AV_Return": 0.00011199855077928826
+        },
+        {
+          "RelativeDate": 660,
+          "Date": "2015-10-23",
+          "Return": 0,
+          "CM_Return": 0.046157859631220176,
+          "AV_Return": 0.000060734025830552864
+        },
+        {
+          "RelativeDate": 661,
+          "Date": "2015-10-24",
+          "Return": 0,
+          "CM_Return": 0.046157859631220176,
+          "AV_Return": 0.000060734025830552864
+        },
+        {
+          "RelativeDate": 662,
+          "Date": "2015-10-25",
+          "Return": 0.008750000000000036,
+          "CM_Return": 0.046157859631220176,
+          "AV_Return": 0.000060734025830552864
+        },
+        {
+          "RelativeDate": 663,
+          "Date": "2015-10-26",
+          "Return": 0.054522924411400185,
+          "CM_Return": 0.03740785963121992,
+          "AV_Return": 0.00004922086793581568
+        },
+        {
+          "RelativeDate": 664,
+          "Date": "2015-10-27",
+          "Return": 0.0023501762632196915,
+          "CM_Return": -0.017115064780179802,
+          "AV_Return": -0.00002251982207918395
+        },
+        {
+          "RelativeDate": 665,
+          "Date": "2015-10-28",
+          "Return": -0.06799531066822968,
+          "CM_Return": -0.019465241043399452,
+          "AV_Return": -0.000025612159267630857
+        },
+        {
+          "RelativeDate": 666,
+          "Date": "2015-10-29",
+          "Return": 0.008805031446540804,
+          "CM_Return": 0.04853006962482994,
+          "AV_Return": 0.00006385535476951307
+        },
+        {
+          "RelativeDate": 667,
+          "Date": "2015-10-30",
+          "Return": 0,
+          "CM_Return": 0.03972503817828895,
+          "AV_Return": 0.000052269787076695984
+        },
+        {
+          "RelativeDate": 668,
+          "Date": "2015-10-31",
+          "Return": 0,
+          "CM_Return": 0.03972503817828895,
+          "AV_Return": 0.000052269787076695984
+        },
+        {
+          "RelativeDate": 669,
+          "Date": "2015-11-01",
+          "Return": 0.02992518703241898,
+          "CM_Return": 0.03972503817828895,
+          "AV_Return": 0.000052269787076695984
+        },
+        {
+          "RelativeDate": 670,
+          "Date": "2015-11-02",
+          "Return": -0.006053268765133043,
+          "CM_Return": 0.009799851145870182,
+          "AV_Return": 0.000012894540981408134
+        },
+        {
+          "RelativeDate": 671,
+          "Date": "2015-11-03",
+          "Return": 0.009744214372715991,
+          "CM_Return": 0.015853119911002973,
+          "AV_Return": 0.00002085936830395128
+        },
+        {
+          "RelativeDate": 672,
+          "Date": "2015-11-04",
+          "Return": -0.010856453558504207,
+          "CM_Return": 0.006108905538287197,
+          "AV_Return": 0.00000803803360300947
+        },
+        {
+          "RelativeDate": 673,
+          "Date": "2015-11-05",
+          "Return": 0.02560975609756108,
+          "CM_Return": 0.016965359096791262,
+          "AV_Return": 0.00002232284091683061
+        },
+        {
+          "RelativeDate": 674,
+          "Date": "2015-11-06",
+          "Return": 0,
+          "CM_Return": -0.008644397000769584,
+          "AV_Return": -0.00001137420657995998
+        },
+        {
+          "RelativeDate": 675,
+          "Date": "2015-11-07",
+          "Return": 0,
+          "CM_Return": -0.008644397000769584,
+          "AV_Return": -0.00001137420657995998
+        },
+        {
+          "RelativeDate": 676,
+          "Date": "2015-11-08",
+          "Return": 0.04637336504161719,
+          "CM_Return": -0.008644397000769584,
+          "AV_Return": -0.00001137420657995998
+        },
+        {
+          "RelativeDate": 677,
+          "Date": "2015-11-09",
+          "Return": 0.08863636363636355,
+          "CM_Return": -0.05501776204238681,
+          "AV_Return": -0.00007239179216103527
+        },
+        {
+          "RelativeDate": 678,
+          "Date": "2015-11-10",
+          "Return": 0.027139874739039643,
+          "CM_Return": -0.1436541256787504,
+          "AV_Return": -0.00018901858641940845
+        },
+        {
+          "RelativeDate": 679,
+          "Date": "2015-11-11",
+          "Return": -0.02947154471544707,
+          "CM_Return": -0.17079400041778992,
+          "AV_Return": -0.00022472894791814463
+        },
+        {
+          "RelativeDate": 680,
+          "Date": "2015-11-12",
+          "Return": -0.008376963350785346,
+          "CM_Return": -0.14132245570234286,
+          "AV_Return": -0.00018595059960834588
+        },
+        {
+          "RelativeDate": 681,
+          "Date": "2015-11-13",
+          "Return": 0,
+          "CM_Return": -0.13294549235155734,
+          "AV_Return": -0.00017492827940994386
+        },
+        {
+          "RelativeDate": 682,
+          "Date": "2015-11-14",
+          "Return": 0,
+          "CM_Return": -0.13294549235155734,
+          "AV_Return": -0.00017492827940994386
+        },
+        {
+          "RelativeDate": 683,
+          "Date": "2015-11-15",
+          "Return": 0.05596620908130933,
+          "CM_Return": -0.13294549235155734,
+          "AV_Return": -0.00017492827940994386
+        },
+        {
+          "RelativeDate": 684,
+          "Date": "2015-11-16",
+          "Return": -0.010999999999999944,
+          "CM_Return": -0.188911701432867,
+          "AV_Return": -0.0002485680282011408
+        },
+        {
+          "RelativeDate": 685,
+          "Date": "2015-11-17",
+          "Return": -0.01617795753286149,
+          "CM_Return": -0.17791170143286705,
+          "AV_Return": -0.00023409434399061454
+        },
+        {
+          "RelativeDate": 686,
+          "Date": "2015-11-18",
+          "Return": 0.02055498458376149,
+          "CM_Return": -0.16173374390000544,
+          "AV_Return": -0.00021280755776316505
+        },
+        {
+          "RelativeDate": 687,
+          "Date": "2015-11-19",
+          "Return": 0.007049345417925507,
+          "CM_Return": -0.1822887284837671,
+          "AV_Return": -0.00023985359011021985
+        },
+        {
+          "RelativeDate": 688,
+          "Date": "2015-11-20",
+          "Return": 0,
+          "CM_Return": -0.18933807390169238,
+          "AV_Return": -0.00024912904460748996
+        },
+        {
+          "RelativeDate": 689,
+          "Date": "2015-11-21",
+          "Return": 0,
+          "CM_Return": -0.18933807390169238,
+          "AV_Return": -0.00024912904460748996
+        },
+        {
+          "RelativeDate": 690,
+          "Date": "2015-11-22",
+          "Return": 0.05500000000000007,
+          "CM_Return": -0.18933807390169238,
+          "AV_Return": -0.00024912904460748996
+        },
+        {
+          "RelativeDate": 691,
+          "Date": "2015-11-23",
+          "Return": -0.0037914691943128835,
+          "CM_Return": -0.24433807390169282,
+          "AV_Return": -0.00032149746566012213
+        },
+        {
+          "RelativeDate": 692,
+          "Date": "2015-11-24",
+          "Return": 0.019980970504281718,
+          "CM_Return": -0.24054660470737999,
+          "AV_Return": -0.00031650869040444733
+        },
+        {
+          "RelativeDate": 693,
+          "Date": "2015-11-25",
+          "Return": -0.0009328358208955024,
+          "CM_Return": -0.2605275752116615,
+          "AV_Return": -0.0003427994410679756
+        },
+        {
+          "RelativeDate": 694,
+          "Date": "2015-11-26",
+          "Return": 0.008403361344537801,
+          "CM_Return": -0.25959473939076616,
+          "AV_Return": -0.000341572025514166
+        },
+        {
+          "RelativeDate": 695,
+          "Date": "2015-11-27",
+          "Return": 0,
+          "CM_Return": -0.267998100735304,
+          "AV_Return": -0.0003526290799148737
+        },
+        {
+          "RelativeDate": 696,
+          "Date": "2015-11-28",
+          "Return": 0,
+          "CM_Return": -0.267998100735304,
+          "AV_Return": -0.0003526290799148737
+        },
+        {
+          "RelativeDate": 697,
+          "Date": "2015-11-29",
+          "Return": 0.06944444444444443,
+          "CM_Return": -0.267998100735304,
+          "AV_Return": -0.0003526290799148737
+        },
+        {
+          "RelativeDate": 698,
+          "Date": "2015-11-30",
+          "Return": 0.058008658008657996,
+          "CM_Return": -0.3374425451797482,
+          "AV_Return": -0.0004440033489207213
+        },
+        {
+          "RelativeDate": 699,
+          "Date": "2015-12-01",
+          "Return": 0.06382978723404249,
+          "CM_Return": -0.39545120318840593,
+          "AV_Return": -0.0005203305305110605
+        },
+        {
+          "RelativeDate": 700,
+          "Date": "2015-12-02",
+          "Return": -0.0030769230769230114,
+          "CM_Return": -0.45928099042244847,
+          "AV_Return": -0.0006043170926611164
+        },
+        {
+          "RelativeDate": 701,
+          "Date": "2015-12-03",
+          "Return": -0.024691358024691377,
+          "CM_Return": -0.4562040673455255,
+          "AV_Return": -0.0006002685096651652
+        },
+        {
+          "RelativeDate": 702,
+          "Date": "2015-12-04",
+          "Return": 0,
+          "CM_Return": -0.43151270932083424,
+          "AV_Return": -0.0005677798806853082
+        },
+        {
+          "RelativeDate": 703,
+          "Date": "2015-12-05",
+          "Return": 0,
+          "CM_Return": -0.43151270932083424,
+          "AV_Return": -0.0005677798806853082
+        },
+        {
+          "RelativeDate": 704,
+          "Date": "2015-12-06",
+          "Return": 0.0007911392405063122,
+          "CM_Return": -0.43151270932083424,
+          "AV_Return": -0.0005677798806853082
+        },
+        {
+          "RelativeDate": 705,
+          "Date": "2015-12-07",
+          "Return": -0.017391304347826136,
+          "CM_Return": -0.43230384856134046,
+          "AV_Return": -0.0005688208533701848
+        },
+        {
+          "RelativeDate": 706,
+          "Date": "2015-12-08",
+          "Return": -0.03459372485921156,
+          "CM_Return": -0.41491254421351426,
+          "AV_Return": -0.0005459375581756766
+        },
+        {
+          "RelativeDate": 707,
+          "Date": "2015-12-09",
+          "Return": 0.0024999999999999467,
+          "CM_Return": -0.3803188193543026,
+          "AV_Return": -0.0005004194991503982
+        },
+        {
+          "RelativeDate": 708,
+          "Date": "2015-12-10",
+          "Return": 0.03158769742310896,
+          "CM_Return": -0.38281881935430256,
+          "AV_Return": -0.0005037089728346086
+        },
+        {
+          "RelativeDate": 709,
+          "Date": "2015-12-11",
+          "Return": 0,
+          "CM_Return": -0.41440651677741164,
+          "AV_Return": -0.0005452717326018574
+        },
+        {
+          "RelativeDate": 710,
+          "Date": "2015-12-12",
+          "Return": 0,
+          "CM_Return": -0.41440651677741164,
+          "AV_Return": -0.0005452717326018574
+        },
+        {
+          "RelativeDate": 711,
+          "Date": "2015-12-13",
+          "Return": 0,
+          "CM_Return": -0.41440651677741164,
+          "AV_Return": -0.0005452717326018574
+        },
+        {
+          "RelativeDate": 712,
+          "Date": "2015-12-14",
+          "Return": -0.010475423045930764,
+          "CM_Return": -0.41440651677741164,
+          "AV_Return": -0.0005452717326018574
+        },
+        {
+          "RelativeDate": 713,
+          "Date": "2015-12-15",
+          "Return": 0.019543973941368097,
+          "CM_Return": -0.4039310937314809,
+          "AV_Return": -0.0005314882812256327
+        },
+        {
+          "RelativeDate": 714,
+          "Date": "2015-12-16",
+          "Return": 0.006389776357827482,
+          "CM_Return": -0.423475067672849,
+          "AV_Return": -0.0005572040364116434
+        },
+        {
+          "RelativeDate": 715,
+          "Date": "2015-12-17",
+          "Return": 0.033333333333333326,
+          "CM_Return": -0.42986484403067654,
+          "AV_Return": -0.0005656116368824691
+        },
+        {
+          "RelativeDate": 716,
+          "Date": "2015-12-18",
+          "Return": 0,
+          "CM_Return": -0.46319817736400976,
+          "AV_Return": -0.000609471286005276
+        },
+        {
+          "RelativeDate": 717,
+          "Date": "2015-12-19",
+          "Return": 0,
+          "CM_Return": -0.46319817736400976,
+          "AV_Return": -0.000609471286005276
+        },
+        {
+          "RelativeDate": 718,
+          "Date": "2015-12-20",
+          "Return": 0.05453149001536105,
+          "CM_Return": -0.46319817736400976,
+          "AV_Return": -0.000609471286005276
+        },
+        {
+          "RelativeDate": 719,
+          "Date": "2015-12-21",
+          "Return": 0.042243262927895125,
+          "CM_Return": -0.5177296673793704,
+          "AV_Return": -0.0006812232465518032
+        },
+        {
+          "RelativeDate": 720,
+          "Date": "2015-12-22",
+          "Return": 0.011180992313067795,
+          "CM_Return": -0.559972930307266,
+          "AV_Return": -0.0007368064872464026
+        },
+        {
+          "RelativeDate": 721,
+          "Date": "2015-12-23",
+          "Return": 0.003455425017277051,
+          "CM_Return": -0.5711539226203334,
+          "AV_Return": -0.0007515183192372808
+        },
+        {
+          "RelativeDate": 722,
+          "Date": "2015-12-24",
+          "Return": 0,
+          "CM_Return": -0.5746093476376107,
+          "AV_Return": -0.0007560649311021194
+        },
+        {
+          "RelativeDate": 723,
+          "Date": "2015-12-25",
+          "Return": 0,
+          "CM_Return": -0.5746093476376107,
+          "AV_Return": -0.0007560649311021194
+        },
+        {
+          "RelativeDate": 724,
+          "Date": "2015-12-26",
+          "Return": 0,
+          "CM_Return": -0.5746093476376107,
+          "AV_Return": -0.0007560649311021194
+        },
+        {
+          "RelativeDate": 725,
+          "Date": "2015-12-27",
+          "Return": 0,
+          "CM_Return": -0.5746093476376107,
+          "AV_Return": -0.0007560649311021194
+        },
+        {
+          "RelativeDate": 726,
+          "Date": "2015-12-28",
+          "Return": 0.0661157024793389,
+          "CM_Return": -0.5746093476376107,
+          "AV_Return": -0.0007560649311021194
+        },
+        {
+          "RelativeDate": 727,
+          "Date": "2015-12-29",
+          "Return": -0.09431524547803623,
+          "CM_Return": -0.64072505011695,
+          "AV_Return": -0.0008430592764696711
+        },
+        {
+          "RelativeDate": 728,
+          "Date": "2015-12-30",
+          "Return": -0.029243937232524976,
+          "CM_Return": -0.5464098046389133,
+          "AV_Return": -0.0007189602692617281
+        },
+        {
+          "RelativeDate": 729,
+          "Date": "2015-12-31",
+          "Return": 0,
+          "CM_Return": -0.5171658674063883,
+          "AV_Return": -0.0006804814044820898
+        },
+        {
+          "RelativeDate": 730,
+          "Date": "2016-01-01",
+          "Return": 0,
+          "CM_Return": -0.5171658674063883,
+          "AV_Return": -0.0006804814044820898
+        },
+        {
+          "RelativeDate": 731,
+          "Date": "2016-01-02",
+          "Return": 0,
+          "CM_Return": -0.5171658674063883,
+          "AV_Return": -0.0006804814044820898
+        },
+        {
+          "RelativeDate": 732,
+          "Date": "2016-01-03",
+          "Return": 0.07274063188831743,
+          "CM_Return": -0.5171658674063883,
+          "AV_Return": -0.0006804814044820898
+        },
+        {
+          "RelativeDate": 733,
+          "Date": "2016-01-04",
+          "Return": -0.05479452054794513,
+          "CM_Return": -0.5899064992947064,
+          "AV_Return": -0.0007761927622298769
+        },
+        {
+          "RelativeDate": 734,
+          "Date": "2016-01-05",
+          "Return": -0.02173913043478266,
+          "CM_Return": -0.5351119787467605,
+          "AV_Return": -0.0007040947088773165
+        },
+        {
+          "RelativeDate": 735,
+          "Date": "2016-01-06",
+          "Return": -0.031111111111111107,
+          "CM_Return": -0.5133728483119778,
+          "AV_Return": -0.0006754905898841814
+        },
+        {
+          "RelativeDate": 736,
+          "Date": "2016-01-07",
+          "Return": 0.019877675840978576,
+          "CM_Return": -0.4822617372008669,
+          "AV_Return": -0.0006345549173695617
+        },
+        {
+          "RelativeDate": 737,
+          "Date": "2016-01-08",
+          "Return": 0,
+          "CM_Return": -0.5021394130418455,
+          "AV_Return": -0.0006607097540024283
+        },
+        {
+          "RelativeDate": 738,
+          "Date": "2016-01-09",
+          "Return": 0,
+          "CM_Return": -0.5021394130418455,
+          "AV_Return": -0.0006607097540024283
+        },
+        {
+          "RelativeDate": 739,
+          "Date": "2016-01-10",
+          "Return": -0.025487256371814083,
+          "CM_Return": -0.5021394130418455,
+          "AV_Return": -0.0006607097540024283
+        },
+        {
+          "RelativeDate": 740,
+          "Date": "2016-01-11",
+          "Return": -0.0007692307692307529,
+          "CM_Return": -0.4766521566700315,
+          "AV_Return": -0.0006271738903553046
+        },
+        {
+          "RelativeDate": 741,
+          "Date": "2016-01-12",
+          "Return": 0.020015396458814456,
+          "CM_Return": -0.47588292590080067,
+          "AV_Return": -0.0006261617446063167
+        },
+        {
+          "RelativeDate": 742,
+          "Date": "2016-01-13",
+          "Return": -0.011320754716981159,
+          "CM_Return": -0.49589832235961523,
+          "AV_Return": -0.0006524977925784411
+        },
+        {
+          "RelativeDate": 743,
+          "Date": "2016-01-14",
+          "Return": -0.01832061068702292,
+          "CM_Return": -0.4845775676426341,
+          "AV_Return": -0.0006376020626876765
+        },
+        {
+          "RelativeDate": 744,
+          "Date": "2016-01-15",
+          "Return": 0,
+          "CM_Return": -0.46625695695561103,
+          "AV_Return": -0.0006134959959942251
+        },
+        {
+          "RelativeDate": 745,
+          "Date": "2016-01-16",
+          "Return": 0,
+          "CM_Return": -0.46625695695561103,
+          "AV_Return": -0.0006134959959942251
+        },
+        {
+          "RelativeDate": 746,
+          "Date": "2016-01-17",
+          "Return": -0.012441679626749623,
+          "CM_Return": -0.46625695695561103,
+          "AV_Return": -0.0006134959959942251
+        },
+        {
+          "RelativeDate": 747,
+          "Date": "2016-01-18",
+          "Return": 0.047244094488189094,
+          "CM_Return": -0.45381527732886157,
+          "AV_Return": -0.0005971253649063968
+        },
+        {
+          "RelativeDate": 748,
+          "Date": "2016-01-19",
+          "Return": 0.012781954887218039,
+          "CM_Return": -0.5010593718170506,
+          "AV_Return": -0.0006592886471276982
+        },
+        {
+          "RelativeDate": 749,
+          "Date": "2016-01-20",
+          "Return": 0.01262063845582776,
+          "CM_Return": -0.5138413267042684,
+          "AV_Return": -0.0006761070088214057
+        },
+        {
+          "RelativeDate": 750,
+          "Date": "2016-01-21",
+          "Return": 0.008064516129032216,
+          "CM_Return": -0.526461965160096,
+          "AV_Return": -0.0006927131120527579
+        },
+        {
+          "RelativeDate": 751,
+          "Date": "2016-01-22",
+          "Return": 0,
+          "CM_Return": -0.5345264812891285,
+          "AV_Return": -0.0007033243174856954
+        },
+        {
+          "RelativeDate": 752,
+          "Date": "2016-01-23",
+          "Return": 0,
+          "CM_Return": -0.5345264812891285,
+          "AV_Return": -0.0007033243174856954
+        },
+        {
+          "RelativeDate": 753,
+          "Date": "2016-01-24",
+          "Return": 0.01818181818181818,
+          "CM_Return": -0.5345264812891285,
+          "AV_Return": -0.0007033243174856954
+        },
+        {
+          "RelativeDate": 754,
+          "Date": "2016-01-25",
+          "Return": 0,
+          "CM_Return": -0.5527082994709468,
+          "AV_Return": -0.0007272477624617721
+        },
+        {
+          "RelativeDate": 755,
+          "Date": "2016-01-26",
+          "Return": 0,
+          "CM_Return": -0.5527082994709468,
+          "AV_Return": -0.0007272477624617721
+        },
+        {
+          "RelativeDate": 756,
+          "Date": "2016-01-27",
+          "Return": -0.012142857142857138,
+          "CM_Return": -0.5527082994709468,
+          "AV_Return": -0.0007272477624617721
+        },
+        {
+          "RelativeDate": 757,
+          "Date": "2016-01-28",
+          "Return": -0.0007230657989876925,
+          "CM_Return": -0.5405654423280896,
+          "AV_Return": -0.0007112703188527494
+        },
+        {
+          "RelativeDate": 758,
+          "Date": "2016-01-29",
+          "Return": 0,
+          "CM_Return": -0.5398423765291017,
+          "AV_Return": -0.0007103189164856602
+        },
+        {
+          "RelativeDate": 759,
+          "Date": "2016-01-30",
+          "Return": 0,
+          "CM_Return": -0.5398423765291017,
+          "AV_Return": -0.0007103189164856602
+        },
+        {
+          "RelativeDate": 760,
+          "Date": "2016-01-31",
+          "Return": -0.06512301013024605,
+          "CM_Return": -0.5398423765291017,
+          "AV_Return": -0.0007103189164856602
+        }
+      ]
+    }
+  ],
+  "Log": {
+    "Developer_Team": "Alvin's Friends",
+    "Module_Name_and_Version": "Alvin's Company Returns v3.0",
+    "Parameters_Passed": {
+      "InstrumentID": "BAL.AX",
+      "Date": "2014-01-01",
+      "UpperWindow": 760,
+      "LowerWindow": 0,
+      "ListOfVars": [
+        "AV_Return",
+        "CM_Return"
+      ]
+    },
+    "Response": {
+      "Code": "SUCCESS",
+      "startTimeOfExecution": "24 May 2017 12:32:01 pm",
+      "endTimeOfExecution": "24 May 2017 12:32:07 pm",
+      "elapsedTimeOfExecution": "5794ms",
+      "outputFileName": "Company Returns JSON Object"
+    }
+  }
+}

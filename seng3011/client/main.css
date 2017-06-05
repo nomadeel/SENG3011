@@ -1,0 +1,20 @@
+.grommetux-paragraph {
+    max-width: none !important;
+}
+
+.ui.menu {
+    margin: 0 !important;
+}
+
+.banner.segment {
+    min-height: 700px;
+}
+
+pre {
+    margin: 0 !important;
+    margin-bottom: 0px !important;
+}
+
+ul {
+    margin-bottom: 0px !important;
+}

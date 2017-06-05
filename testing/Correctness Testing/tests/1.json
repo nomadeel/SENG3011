@@ -1,0 +1,69 @@
+{
+    "Area": "retail",
+    "Category": "Other",
+    "State": "AUS",
+    "start_date": "2016-01-01",
+    "end_date": "2016-12-31",
+    "expected_response": {
+        "MonthlyRetailData": [
+            {
+                "RetailIndustry": "Other",
+                "RegionalData": [
+                    {
+                        "State": "AUS",
+                        "Data": [
+                            {
+                                "Date": "2016-1-31",
+                                "Turnover": 3304.9
+                            },
+                            {
+                                "Date": "2016-2-29",
+                                "Turnover": 3257
+                            },
+                            {
+                                "Date": "2016-3-31",
+                                "Turnover": 3398.6
+                            },
+                            {
+                                "Date": "2016-4-30",
+                                "Turnover": 3355.8
+                            },
+                            {
+                                "Date": "2016-5-31",
+                                "Turnover": 3428.5
+                            },
+                            {
+                                "Date": "2016-6-30",
+                                "Turnover": 3414.4
+                            },
+                            {
+                                "Date": "2016-7-31",
+                                "Turnover": 3492.7
+                            },
+                            {
+                                "Date": "2016-8-31",
+                                "Turnover": 3562.3
+                            },
+                            {
+                                "Date": "2016-9-30",
+                                "Turnover": 3602.3
+                            },
+                            {
+                                "Date": "2016-10-31",
+                                "Turnover": 3643.2
+                            },
+                            {
+                                "Date": "2016-11-30",
+                                "Turnover": 4051.1
+                            },
+                            {
+                                "Date": "2016-12-31",
+                                "Turnover": 4859.6
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }    
+}

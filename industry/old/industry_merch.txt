@@ -1,0 +1,117 @@
+[YAHOO INDUSTRY]                            [MerchExp Category]
+Advertising Agencies
+Aerospace/Defense - Major Diversified       MachineryAndTransportEquipments x
+Agricultural Chemicals                      ChemicalsAndRelatedProducts x     
+Air Delivery & Freight Services             
+Air Services, Other
+Aluminum                                    ManufacturedGoods x
+Apparel Stores                              
+Asset Management
+Auto Parts                                  MachineryAndTransportEquipments x
+Beverages - Brewers                         BeveragesAndTobacco x
+Beverages - Soft Drinks                     BeveragesAndTobacco x
+Beverages - Wineries & Distillers           BeveragesAndTobacco x
+Biotechnology
+Broadcasting - Radio                        MachineryAndTransportEquipments x
+Business Services
+Business Software & Services
+CATV Systems                                MachineryAndTransportEquipments x
+Communication Equipment                     MachineryAndTransportEquipments x
+Computer Based Systems                      MachineryAndTransportEquipments x
+Computers Wholesale                         MachineryAndTransportEquipments
+Confectioners                               FoodAndLiveAnimal x
+Conglomerates
+Copper                                      ManufacturedGoods x
+Credit Services
+Data Storage Devices                        MachineryAndTransportEquipments x
+Department Stores
+Diversified Electronics                     MachineryAndTransportEquipments x
+Diversified Machinery                       MachineryAndTransportEquipments x
+Diversified Utilities
+Drug Manufacturers - Major                  ChemicalsAndRelatedProducts x
+Drugs - Generic                             ChemicalsAndRelatedProducts x
+Education & Training Services
+Electric Utilities                          MachineryAndTransportEquipments x
+Electronic Equipment                        MachineryAndTransportEquipments x
+Entertainment - Diversified
+Farm Products                               xCrudeMaterialAndInedible/FoodAndLiveAnimal/AnimalAndVegetableOilFatAndWaxes
+Food - Major Diversified                    FoodAndLiveAnimal x
+Food Wholesale                              FoodAndLiveAnimal x
+Gaming Activities
+Gas Utilities                               MachineryAndTransportEquipments x
+General Building Materials                  ManufacturedGoods x
+General Contractors
+Gold                                        Unclassified
+Grocery Stores
+Healthcare Information Services
+Health Care Plans
+Heavy Construction
+Home Furnishings & Fixtures                 OtherManufacturedArticles x
+Hospitals
+Independent Oil & Gas                       MineralFuelLubricantAndRelatedMaterial x
+Industrial Equipment Wholesale              MachineryAndTransportEquipments x
+Industrial Metals & Minerals                ManufacturedGoods x
+Information Technology Services
+Insurance Brokers
+Internet Information Providers
+Investment Brokerage - National
+Jewelry Stores
+Life Insurance
+Lodging
+Long-Term Care Facilities
+Lumber, Wood Production                     CrudeMaterialAndInedible x
+Major Airlines
+Major Integrated Oil & Gas                  MineralFuelLubricantAndRelatedMaterial x
+Marketing Services
+Medical Appliances & Equipment              OtherManufacturedArticles x
+Medical Equipment Wholesale                 OtherManufacturedArticles x
+Medical Instruments & Supplies              OtherManufacturedArticles x
+Medical Laboratories & Research             
+Money Center Banks
+Mortgage Investment
+Multimedia & Graphics Software
+Oil & Gas Drilling & Exploration            
+Oil & Gas Equipment & Services              MachineryAndTransportEquipments x
+Oil & Gas Pipelines                         MachineryAndTransportEquipments x
+Oil & Gas Refining & Marketing
+Packaging & Containers                      OtherManufacturedArticles x
+Personal Products                           ManufacturedGoods x
+Personal Services
+Pollution & Treatment Controls
+Property & Casualty Insurance
+Property Management
+Publishing - Newspapers                     OtherManufacturedArticles x
+Railroads                                   MachineryAndTransportEquipments x
+Real Estate Development
+Recreational Goods, Other                   OtherManufacturedArticles x
+Recreational Vehicles                       MachineryAndTransportEquipments x
+REIT - Diversified
+REIT - Healthcare Facilities
+REIT - Hotel/Motel
+REIT - Industrial
+REIT - Office
+REIT - Residential
+REIT - Retail
+Rental & Leasing Services
+Residential Construction
+Resorts & Casinos
+Restaurants
+Rubber & Plastics                           CrudeMaterialAndInedible x
+Savings & Loans
+Scientific & Technical Instruments          OtherManufacturedArticles x
+Security & Protection Services
+Semiconductor - Broad Line                  MachineryAndTransportEquipments x
+Semiconductor Equipment & Materials         MachineryAndTransportEquipments x
+Semiconductor- Memory Chips                 MachineryAndTransportEquipments x
+Shipping
+Silver                                      ManufacturedGoods x
+Specialty Chemicals                         ChemicalsAndRelatedProducts x
+Specialty Retail, Other
+Staffing & Outsourcing Services
+Steel & Iron                                ManufacturedGoods x
+Technical & System Software
+Textile - Apparel Clothing                  OtherManufacturedArticles x
+Textile - Apparel Footwear & Accessories    OtherManufacturedArticles x
+Textile Industrial                          MachineryAndTransportEquipments x
+Waste Management
+Wireless Communications                     MachineryAndTransportEquipments x
